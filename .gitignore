@@ -224,3 +224,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# ChromaDB vector databases
+chroma_db/
+chroma_db_*/
