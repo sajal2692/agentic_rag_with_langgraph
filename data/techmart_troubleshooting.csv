@@ -159,3 +159,957 @@ GamePad Pro won’t connect to phone,SKU023,Controller LED pulses blue; phone ne
 2. Forget old GamePad Pro entry in Bluetooth list and scan again.
 3. Toggle phone Bluetooth off/on.
 4. Reset controller by inserting a pin into the back reset hole for 3 seconds."
+"CoreStation S5 Desktop Fails to Boot (Power On, No Display)",SKU281,"When pressing the power button, the CoreStation S5's case and fans power on (lights and fans spin), but there is no display output on the monitor. No BIOS logo appears. The monitor reports 'No Signal.' The GPU fans may also be spinning. No beep codes are heard.","1. Confirm the monitor is powered on and the correct input source is selected.
+2. Check both ends of the display cable (HDMI or DisplayPort) connecting the GPU and monitor. Securely reconnect them, or try a different cable if available.
+3. Ensure the display cable is connected to the GPU's display ports (near the bottom of the case), not the motherboard ports higher up.
+4. Power off the desktop and unplug it from the wall. Wait 1 minute.
+5. Open the side panel of the case. Carefully check that the NVIDIA GeForce RTX 4060 is fully seated in its PCIe slot and that the power connector(s) from the PSU are fully plugged into the GPU.
+6. Reseat the RAM modules: Remove each RAM stick and firmly reinstall it into its slot.
+7. Reconnect power and try to boot the system again.
+8. If the issue persists, test the monitor with another device, or try another monitor.
+9. If none of the above steps resolve the issue, contact TechMart support for further assistance as the GPU or motherboard may require service."
+Controller Not Charging via USB-C,SKU116,"When connecting the PulseEdge Wireless Pro Controller to a USB-C charger or PC port, the charging LED does not light up, and the controller does not gain any battery charge. The controller may still function in wired mode but does not increase battery level.","1. Ensure you are using the original USB-C cable supplied with the controller or a certified data/charging cable.
+2. Try connecting the controller to a different USB port on your PC, console, or charger.
+3. Inspect the USB-C port on the controller for dust or debris and gently clean with compressed air if needed.
+4. Check the charging cable for visible damage or bent connectors; try a different cable if possible.
+5. Hold the controller's power button for 10 seconds to perform a soft reset, then reconnect to the charger.
+6. If the charging LED still does not illuminate, attempt to charge the controller from a different power source (wall adapter, power bank, or another PC).
+7. If the controller continues to not charge, contact TechMart support for further assistance or warranty evaluation."
+Laptop Stand Height Adjustment Mechanism Stuck,SKU087,"The FlexStand Air cannot be raised or lowered. When attempting to adjust the stand's height, the mechanism feels jammed or stiff, and the stand does not move smoothly through its full height range (5–27 cm). No visible debris is present, and the stand is not supporting a load above its maximum capacity.","1. Remove your laptop and any objects from the stand to ensure it is unloaded.
+2. Inspect the adjustment joints and moving parts for visible obstructions, such as dust or debris. Gently clear any particles using a soft brush or compressed air.
+3. Check if any screws or fasteners on the adjustment arms are overly tightened. If so, carefully loosen them with an appropriate screwdriver, but do not remove them completely.
+4. Attempt to adjust the height again by pressing the adjustment button or lever while supporting the base. Apply steady, even pressure—do not force the mechanism.
+5. If the stand still does not move, apply a small amount of silicone-based lubricant to the sliding tracks or joints (avoid oil-based lubricants, as these may damage the anodized finish).
+6. Wipe away any excess lubricant and try adjusting the height once more.
+7. If the issue persists, discontinue use and contact TechMart Support for further assistance or a warranty claim."
+Keyboard Not Detected in Bluetooth Mode,SKU101,"When attempting to connect the KeyFlow Wireless Pro Keyboard via Bluetooth, your device does not detect the keyboard in the list of available Bluetooth devices. The keyboard's Bluetooth indicator light may flash blue but pairing never completes.","1. Ensure the keyboard is switched to Bluetooth mode by toggling the connection switch to the Bluetooth icon.
+2. Confirm the keyboard's battery is charged (plug in the USB-C cable for at least 30 minutes if unsure).
+3. Hold the 'Fn' + '1' keys together for 3 seconds to enter Bluetooth pairing mode. The blue indicator should blink rapidly.
+4. On your computer or mobile device, open Bluetooth settings and scan for new devices. Look for 'KeyFlow Wireless Pro' in the device list.
+5. If not detected, turn Bluetooth off and on again on your device, then repeat step 3.
+6. If still not found, restart both the keyboard (turn off, then on) and your device.
+7. Try pairing with a different device to check if the issue persists. If no devices can detect the keyboard, perform a keyboard reset: Hold 'Fn' + 'Esc' for 5 seconds until the lights blink.
+8. If the problem remains unresolved, contact TechMart support for further assistance."
+USB-C Port Not Charging Devices,SKU167,"When connecting a device to either USB-C port, the device does not begin charging. The device may not recognize the charger, or may intermittently connect and disconnect. The USB-A port may still work normally.","1. Ensure the PowerCore Fusion 90W is securely plugged into a working wall outlet.
+2. Try charging a different device with the same USB-C port to determine if the issue is with the charger or the original device/cable.
+3. Use a different USB-C cable known to work with other chargers to rule out a faulty cable.
+4. Check if the USB-C port is visibly damaged or dirty; if so, gently clean with a dry, soft brush.
+5. Unplug the charger from the wall, wait 60 seconds, and plug it back in to reset the unit.
+6. If both USB-C ports fail to charge any device after these steps, and the USB-A port works, contact TechMart support for warranty service or replacement."
+Laptop Stand Height Adjustment Stuck or Jammed,SKU087,"The FlexStand Air cannot be raised or lowered smoothly. The height adjustment mechanism feels stuck, jams partway, or requires excessive force. The stand may not lock securely at the desired height.","1. Remove your laptop and ensure the stand is empty to prevent damage.
+2. Inspect both sides of the height adjustment arms for visible obstructions, debris, or bent sections.
+3. Gently try to move the stand through the full height range (5–27 cm) without forcing it. If resistance is felt, stop immediately.
+4. Check for any foreign objects (such as small particles or cables) caught in the hinges or joints; remove them carefully.
+5. Using a soft, dry cloth, wipe down the adjustment rails and pivot points to remove dust or residue.
+6. If the mechanism still does not move, check for visible misalignment—both sides should move evenly and smoothly. If one side is higher or lower, gently align them by hand.
+7. Do NOT apply lubricants, as these may damage the anodized aluminum finish or attract dust.
+8. If the stand remains jammed or adjustment is not possible, discontinue use and contact TechMart support with your purchase details for further assistance."
+Active Stylus Pen Not Responding on TabAxis 11 Pro,SKU318,"When using the Active Stylus Pen, the tablet does not register any input—no drawing, handwriting, or touch response from the pen. The pen's LED indicator does not light up, and it does not interact with the 11-inch display, though finger touch works normally.","1. Ensure the stylus pen is fully charged. Connect it to the USB-C charger for at least 30 minutes, then try again.
+2. Remove the stylus from the Bluetooth devices list (if paired) and re-pair it: Go to Settings > Bluetooth > Forget 'TabAxis Stylus', then hold the pairing button on the pen for 3 seconds to enter pairing mode. Reconnect from the tablet.
+3. Clean the tablet display and stylus tip gently with a microfiber cloth to remove any debris.
+4. Restart the TabAxis 11 Pro by holding the power button for 10 seconds and turning it back on.
+5. Check if the stylus works in other supported apps (e.g., Notes, Drawing app). If it works in some but not others, update or reinstall the affected apps.
+6. If the pen's LED does not light up or the issue persists, try the pen on another compatible device if available. If it still does not work, the pen may require replacement. Contact TechMart Support for further assistance."
+Webcam Not Detected by Computer,SKU258,"When connecting the ClearStream Pro 4K Webcam via USB-C, your computer does not recognize the device. The webcam does not appear in video conferencing apps, and is missing from the system's device list. The indicator LED on the webcam remains off.","1. Verify that the USB-C cable is securely connected to both the webcam and your computer.
+2. Test the webcam on a different USB-C port on your computer, if available.
+3. Try using a different USB-C cable that supports data transfer (not just charging), as some cables are charge-only.
+4. Connect the webcam to another computer to determine if the issue is with the webcam or the original computer.
+5. On your computer, open Device Manager (Windows) or System Information > USB (macOS) and check if the webcam is listed under imaging devices or USB devices.
+6. If the webcam is not listed, restart your computer and reconnect the webcam after booting.
+7. Ensure your operating system is fully updated, and check for any optional driver updates related to USB controllers or cameras.
+8. If using a USB hub, connect the webcam directly to the computer, as some hubs may not provide sufficient power or data bandwidth.
+9. If the webcam still isn't detected, contact TechMart support for further assistance or to request a replacement if the device is faulty."
+Controller Not Detected via Wireless Connection,SKU071,"The PulseEdge Elite Wireless Controller does not appear in your device's Bluetooth or 2.4GHz wireless device list. LED indicator on the controller keeps blinking blue or green, and the controller is unresponsive in games. The controller works normally when connected via USB-C.","1. Ensure the controller is fully charged by connecting it to a power source using the USB-C cable. Wait at least 30 minutes before retrying.
+2. If using Bluetooth: Press and hold the Pair button for 3 seconds until the LED flashes blue. On your device (PC, console, mobile), open Bluetooth settings and search for new devices. Select 'PulseEdge Elite' to pair.
+3. If using the 2.4GHz dongle: Insert the dongle into a USB port on your device. Press the Pair button on the controller until the LED flashes green, then press the sync button on the dongle (if available).
+4. Move the controller closer to your device (within 1-2 meters) to rule out wireless interference. Remove or turn off other wireless devices in the area.
+5. Restart your device and try reconnecting the controller wirelessly.
+6. If the controller still isn't detected, reset it by inserting a pin into the small reset hole on the back of the controller for 5 seconds.
+7. Test the controller on another compatible device to determine if the issue is device-specific.
+8. If the problem persists, contact TechMart support for further assistance or a possible replacement."
+USB-C Port Not Delivering Power,SKU141,"Devices connected to either USB-C port do not charge or power on. The device's battery indicator does not show charging, and no charging LED appears on the device. The USB-A port continues to work normally.","1. Unplug all cables and devices from the PowerCore Flex 120W GaN Charger.
+2. Inspect the USB-C cables for visible damage, kinks, or bent connectors. Try a different USB-C cable if available.
+3. Plug the charger into a known working wall outlet. Wait 10 seconds, then reconnect your device to one USB-C port.
+4. Test both USB-C ports separately with your device. Confirm that your device supports USB-C Power Delivery (PD).
+5. If neither USB-C port works, but the USB-A port still charges devices, reset the charger by unplugging it from the wall for 60 seconds, then plug it back in.
+6. If USB-C ports still do not deliver power, test with a different device (e.g., another phone or laptop) to rule out device incompatibility.
+7. If the issue persists after these steps, contact TechMart support with your purchase details and troubleshooting results."
+FlashCore X5 NVMe SSD Not Detected by System,SKU297,"The FlashCore X5 NVMe SSD is not visible in the BIOS/UEFI or the operating system. Users may notice that the drive does not appear as a boot option or as a storage device in Windows Disk Management, macOS Disk Utility, or Linux fdisk/lsblk. No drive activity LEDs light up (if present), and data stored on the drive is inaccessible.","1. Power down your computer and unplug it from the wall.
+2. Open your computer case and ensure the FlashCore X5 is firmly seated in the M.2 slot. Remove and re-insert the SSD if necessary.
+3. Verify that the M.2 slot supports PCIe Gen4 x4 NVMe drives. Consult your motherboard manual if unsure.
+4. Check for any dust or debris in the M.2 slot and gently clean if needed.
+5. Reconnect the system power, turn on your PC, and enter the BIOS/UEFI setup. Look for the drive under storage devices.
+6. If the drive is not detected, update your motherboard BIOS/UEFI to the latest version from the manufacturer’s website.
+7. Boot into your operating system and check if the SSD appears in Disk Management (Windows), Disk Utility (macOS), or via the 'lsblk' command (Linux).
+8. If the drive is still missing, try installing it in a different compatible system or M.2 slot to rule out slot or motherboard compatibility issues.
+9. If none of the above steps work, contact TechMart Support for further assistance or to check warranty/replacement options."
+Precision Stylus Pen Not Responding on TabFlow X10,SKU168,"The Precision Stylus Pen does not interact with the TabFlow X10 screen. Touch input with fingers works as expected, but the stylus does not draw, select, or register any actions. The pen's LED (if present) may remain off or blink intermittently. Replacing the pen battery does not resolve the issue.","1. Ensure the Precision Stylus Pen is fully charged or has a fresh battery installed.
+2. Detach and reattach the magnetic keyboard folio (if connected), as accessory interference can sometimes disrupt stylus function.
+3. Inspect the stylus tip for visible damage or debris; clean gently with a microfiber cloth if needed.
+4. Restart the TabFlow X10 by holding the power button for 10 seconds, then turn it back on.
+5. Go to Settings > Connected Devices > Stylus and verify that the stylus is detected. If not, tap 'Refresh' or 'Pair New Device'.
+6. If the stylus is still unresponsive, open Settings > System > Software Update and install any available updates.
+7. Test the stylus on another compatible device (if available), or test a different stylus on the TabFlow X10 to isolate the issue.
+8. If the problem persists, contact TechMart support for further assistance or warranty evaluation."
+USB-C Port Not Delivering Expected Power Output,SKU141,Devices connected to either USB-C port charge slowly or do not charge at all. Laptops may display 'charging slowly' or 'not charging' notifications. Other devices may fail to recognize the charger when connected via USB-C.,"1. Disconnect all devices and unplug the PowerCore Flex 120W GaN Charger from the wall outlet.
+2. Inspect the USB-C cables for any visible damage or wear; try using a different, known-good USB-C cable.
+3. Plug the charger back into a working wall outlet and reconnect your device to one USB-C port at a time.
+4. Ensure your device supports USB Power Delivery (PD) and is compatible with high-wattage charging.
+5. Check if both USB-C ports exhibit the same issue. Test with another device if possible.
+6. If charging still fails or is slow, make sure you are not connecting devices to all three ports at once, as total output is shared across all ports and may be limited if multiple high-power devices are connected.
+7. If the issue persists after trying the above steps, contact TechMart support for further assistance or possible replacement."
+5GHz WiFi Band Not Visible to Devices,SKU183,Some wireless devices cannot detect or connect to the 'NetStream AX6000' 5GHz WiFi networks (either 5GHz-1 or 5GHz-2). The 2.4GHz network is visible and working. LED indicators for 5GHz bands on the router may be off or blinking. Wired LAN connections work normally.,"1. Ensure that your device supports 5GHz WiFi (older devices may only support 2.4GHz).
+2. Check that the 5GHz WiFi LEDs are illuminated on the router. If not, proceed to the next step.
+3. Log into the router's web interface by entering 'http://192.168.1.1' in your browser. Use your admin credentials.
+4. Navigate to Wireless Settings > Advanced.
+5. Verify that both 5GHz-1 and 5GHz-2 wireless radios are enabled. If either is disabled, enable it and click 'Save'.
+6. Confirm that the SSIDs (network names) for the 5GHz bands are unique and visible (not set to hidden/stealth mode).
+7. Check the channel settings for the 5GHz bands. Set the channel to 'Auto' or select a channel between 36–48 or 149–161, as some devices do not support DFS channels (52–144).
+8. Click 'Apply' or 'Save' and allow the router to reboot if prompted.
+9. Move your device closer to the router and rescan for available WiFi networks.
+10. If the issue persists, perform a power cycle: unplug the router, wait 30 seconds, and plug it back in.
+11. If you still cannot see the 5GHz networks, reset the router to factory settings using the reset button (hold for 10 seconds). Set up your WiFi networks again.
+12. If the problem remains unresolved, contact TechMart Support for hardware diagnostics."
+Controller Not Detected via Bluetooth,SKU116,"When attempting to connect the PulseEdge Wireless Pro Controller wirelessly, the controller does not appear in the Bluetooth device list on your PC or gaming console. The status LED on the controller flashes blue rapidly, and it remains unpaired even after several attempts.","1. Ensure the controller is fully charged by connecting it via USB-C cable for at least 30 minutes.
+2. Hold the Power button for 5 seconds to turn off the controller, then power it back on.
+3. Activate pairing mode by holding the Bluetooth button until the LED flashes blue rapidly.
+4. On your PC or console, open Bluetooth settings and scan for new devices. Look for 'PulseEdge Wireless Pro Controller' in the list.
+5. If it does not appear, move the controller closer to the device (within 1 meter) and remove any potential sources of wireless interference (e.g., other Bluetooth devices, Wi-Fi routers).
+6. Restart the PC or console and repeat the pairing process.
+7. If the issue persists, reset the controller by inserting a paperclip into the reset hole on the back for 5 seconds, then try pairing again.
+8. If none of these steps work, try connecting via USB-C to verify the controller's functionality. If USB works but Bluetooth still fails, contact TechMart support for further assistance."
+Mouse Pointer Lagging or Stuttering During Use,SKU236,"While moving the GlidePro X9 Wireless Mouse, the pointer movement appears delayed, jerky, or unresponsive. This can occur intermittently or persistently. The mouse's LED indicator may remain solid or blink, but the issue persists regardless of surface. Other wireless devices may work fine.","1. Ensure the mouse is fully charged by connecting it to a USB power source for at least 1 hour. Low battery can cause performance issues.
+2. Move the USB wireless dongle to a different USB port on your computer, preferably directly on the PC and not through a USB hub.
+3. Remove any nearby sources of wireless interference (e.g., routers, cordless phones, other 2.4GHz devices) and keep the dongle within 30 cm of the mouse.
+4. Clean the sensor on the underside of the mouse using a soft, dry cloth. Ensure no dust or debris is present on your mousepad or desk surface.
+5. Try using the mouse on a different surface or mousepad. Shiny or reflective surfaces can interfere with the PixArt PAW3370 sensor.
+6. Update or reinstall the mouse driver/software from the TechMart or GlidePro website.
+7. If the issue persists, test the mouse on a different computer to determine if the problem is hardware-related. If stuttering continues, contact TechMart support for further assistance."
+Keyboard Not Registering Key Presses in Bluetooth Mode,SKU064,"When using the KeyFlow Wireless Pro 75 in Bluetooth mode, none of the keys respond when pressed. The keyboard appears powered on (status LED is lit), but typing does not produce any input on the connected device. The keyboard may work normally when connected via USB-C cable.","1. Ensure the keyboard is sufficiently charged (at least 20% battery). If unsure, connect it to a power source using the USB-C cable for at least 30 minutes.
+2. Toggle the keyboard's power switch off, wait 5 seconds, then turn it back on.
+3. Verify the keyboard is in Bluetooth mode by checking the mode indicator (refer to the manual for indicator location).
+4. On your computer/tablet/phone, remove (""forget"") the KeyFlow Wireless Pro 75 from your Bluetooth devices list.
+5. Put the keyboard into pairing mode by holding the designated Bluetooth pairing key (usually Fn + specific key; see manual) until the Bluetooth LED flashes.
+6. Search for Bluetooth devices on your device and re-pair with ""KeyFlow Wireless Pro 75"".
+7. Test typing again. If still unresponsive, try restarting your device and repeat steps 4–6.
+8. If the issue persists, try connecting the keyboard to a different device via Bluetooth to determine if the issue is device-specific.
+9. If the keyboard works on other devices, update your computer's Bluetooth drivers. If it does not work on any device, contact TechMart Support for further assistance."
+Laptop Stand Joints Become Loose and Cannot Hold Position,SKU075,"The FlexiStand Pro fails to hold the desired angle or height. When a laptop is placed, the stand's joints slip, causing the platform to collapse or tilt downward. Users may hear creaking noises or notice visible movement at the hinge points.","1. Remove your laptop from the stand to prevent accidental drops while troubleshooting.
+2. Inspect each hinge joint on the stand for visible gaps or loose screws.
+3. Using a suitable screwdriver (typically a 3mm or 4mm hex key), gently tighten the screws on each side of any loose joint. Be careful not to overtighten, as this may strip the threads or damage the joint.
+4. Adjust the stand to your preferred angle and height, then press down gently on the platform to test if the joints hold steady.
+5. If the stand still collapses, check for any missing or damaged washers in the joints; contact TechMart support if replacement parts are needed.
+6. Clean any debris or dust from the hinge area, as buildup can prevent proper tightening.
+7. Re-test the stand with your laptop placed carefully on top. If the issue persists despite these steps, discontinue use and contact TechMart for further assistance or warranty support."
+Active Stylus (Nova Pen 2) Not Detected by TabNova 11 Pro,SKU187,"The Nova Pen 2 does not interact with the tablet screen. Writing or drawing is unresponsive, no cursor or hover effect appears when the pen is near the display, and pen shortcut buttons do not function. The tablet otherwise responds to finger touch normally.","1. Ensure the stylus is charged: Connect the Nova Pen 2 to the USB-C charger for at least 30 minutes. 
+2. Check that the stylus tip is not loose or damaged. Gently tighten or replace the tip if necessary. 
+3. Restart the TabNova 11 Pro by holding the power button for 10 seconds and turning it back on. 
+4. Remove any screen protector or case that may interfere with the pen’s contact with the display. 
+5. Go to Settings > Connected Devices > Stylus and ensure ‘Enable Stylus’ is toggled ON. 
+6. Test the stylus on another compatible device (if available), or test a different stylus on the TabNova 11 Pro. 
+7. If the stylus still does not work, perform a software update: Settings > System > Software Update, then restart the device. 
+8. If the issue persists, contact TechMart support for further assistance or replacement options."
+Keys Not Registering in Wireless Mode,SKU110,"When using the KeyStream Pro Wireless Keyboard via Bluetooth or 2.4GHz wireless, some or all keystrokes are not detected by the computer. The keyboard may work correctly when connected via USB-C cable. The keyboard's indicator lights may still be on, and the device may appear connected in the operating system.","1. Confirm the keyboard is fully charged by connecting it to a USB-C power source for at least 30 minutes. 
+2. Toggle the keyboard's power switch off and then on again.
+3. If using Bluetooth, remove the keyboard from your device's Bluetooth list and re-pair it:
+   a. Hold the Bluetooth pairing button on the keyboard for 3 seconds until the indicator blinks.
+   b. Select 'KeyStream Pro' from your computer's Bluetooth menu and reconnect.
+4. If using 2.4GHz wireless, unplug the USB dongle, wait 10 seconds, and plug it back into a different USB port. Ensure the keyboard is set to 2.4GHz mode (check manual for switch location).
+5. Test the keyboard on another computer or device to rule out a device-specific issue.
+6. If the issue persists, reset the keyboard by holding the Fn + R keys for 5 seconds until the indicator flashes, then repeat the pairing process.
+7. If none of these steps resolve the issue, contact TechMart support for further assistance."
+GlideMaster MX Mouse Not Charging or Powering On,SKU109,The mouse does not turn on when the power button is pressed. The LED indicator does not light up even when connected to a charger. Attempting to use the mouse wirelessly or wired results in no response from the device or cursor movement on the computer.,"1. Ensure the USB charging cable is securely connected to both the mouse and a working USB port or charger. 
+2. Inspect the charging cable and port for any visible damage or debris. Try a different USB cable and port if available. 
+3. Leave the mouse connected to power for at least 30 minutes to ensure the battery is not completely depleted. 
+4. Check if the LED indicator turns on or blinks while charging. If not, try charging from a different power source (e.g., wall adapter instead of a PC). 
+5. After charging, press and hold the power button for 2-3 seconds to turn the mouse on. Observe if the LED indicator lights up. 
+6. If the mouse still does not power on, perform a reset: locate the reset button (usually a small pinhole on the underside) and press it with a paperclip for 5 seconds. 
+7. If the issue persists, the battery or internal hardware may be faulty. Contact TechMart Support for further assistance or warranty service."
+FlexMount Ergo Stand Will Not Hold Set Height or Angle,SKU153,"The stand gradually collapses or lowers after adjusting to the desired height or angle. Devices placed on the stand may slowly tilt downwards or slide, even if under the 5 kg weight limit. The adjustment joints feel loose or do not lock firmly in place.","1. Remove any device from the stand and ensure the total weight is under 5 kg.
+2. Inspect all adjustment joints for visible debris or obstructions; gently clean with a dry cloth if needed.
+3. Tighten the adjustment knobs or screws at each joint using the appropriate tool (usually a hex key or screwdriver, as supplied). Do not overtighten.
+4. Set the stand to the desired height (between 5 and 28 cm) and angle (between 15 and 45 degrees), then gently test if the position holds by applying light downward pressure.
+5. If the stand still slips, check for any visible damage, cracks, or excessive wear in the joints or locking mechanism.
+6. If the issue persists after tightening and cleaning, contact TechMart Support with your product details for further assistance or replacement options."
+SSD Not Detected in BIOS or Windows,SKU260,The DataForge NVMe X5 SSD is not visible in the system BIOS or Windows Disk Management. Operating system installation cannot detect the drive. No storage is shown when attempting to create or format partitions.,"1. Power off your computer and disconnect it from the power source.
+2. Open your system case and ensure the SSD is firmly seated in the M.2 PCIe slot. Remove and re-insert if necessary.
+3. Check for any visible damage or debris on the SSD and the M.2 slot.
+4. Ensure your motherboard supports PCIe Gen4 x4 NVMe drives and that the M.2 slot is enabled in BIOS.
+5. Power on the system and enter BIOS/UEFI settings (usually by pressing DEL, F2, or ESC on boot).
+6. Look for NVMe or M.2 device listings under 'Storage' or 'Boot' options. If not detected, update your motherboard BIOS to the latest version from the manufacturer website.
+7. If detected in BIOS but not in Windows, boot into Windows and open Disk Management (Win+X > Disk Management), then scan for new disks. If uninitialized, initialize and format the SSD.
+8. If the SSD is still not detected, try installing it in a different compatible system to isolate if the issue is with the drive or motherboard.
+9. If the drive remains undetected after all steps, contact TechMart support for further assistance or warranty replacement."
+SSD Not Detected in BIOS or Operating System,SKU216,"After installing the DataForge NVMe SSD 2TB, the drive does not appear in the system BIOS or in the operating system's disk management tools. The computer may boot normally from another drive, but the SSD is missing from all storage lists. No activity LED is present on the SSD.","1. Power off your PC completely and disconnect the power cable.
+2. Open your PC case and ensure the DataForge NVMe SSD 2TB is firmly seated in the M.2 slot. Remove and re-insert the SSD if necessary.
+3. Check that the M.2 slot supports PCIe Gen4 x4 NVMe drives (consult your motherboard manual).
+4. Boot into the BIOS/UEFI setup. Look for the SSD under storage or NVMe device lists. If not present, check if the M.2 slot is enabled in BIOS settings.
+5. Update your motherboard's BIOS/UEFI firmware to the latest version from the manufacturer's website, then check for the SSD again.
+6. Boot into your operating system and open Disk Management (Windows) or Disk Utility (Mac/Linux). Look for unallocated or uninitialized drives.
+7. If the SSD is still not detected, test it in a different compatible system, if available.
+8. If the SSD is detected in another system, the issue may be with your motherboard or BIOS settings. If not, the SSD may be defective—contact TechMart support for warranty service."
+Mouse Pointer Lag or Stuttering in Wireless Mode,SKU035,"When using the SwiftPoint MX7 Wireless Mouse, the cursor movement appears delayed, skips, or stutters across the screen. This may only occur when the mouse is connected wirelessly. Wired connection works smoothly. The mouse LED may remain solid or blink slowly, and other USB devices work normally.","1. Make sure the mouse is fully charged. Connect it to your computer with the provided USB-C cable for at least 15 minutes, then try using it wirelessly again.
+2. Ensure the wireless USB receiver is plugged directly into your computer's USB port. Avoid using USB hubs or extension cables, as these can introduce interference.
+3. Move the wireless receiver to a different USB port, preferably on the opposite side of your computer from other wireless devices (like Wi-Fi adapters or Bluetooth dongles).
+4. Check for sources of interference near your workspace, such as other wireless devices, metal objects, or microwaves. Try moving the mouse and receiver away from these sources.
+5. Install or update the SwiftPoint MX7 drivers and firmware from the official website to ensure optimal wireless performance.
+6. If the issue persists, test the mouse on a different computer. If the lag or stuttering continues, contact TechMart support for further assistance or warranty service."
+Speaker Not Responding to Voice Commands,SKU188,"When trying to use Alexa or Google Assistant voice commands, the PulseSound Mini Smart Speaker does not respond. The LED ring does not light up when saying the wake word, and the assistant does not reply or perform any actions. Music playback and Bluetooth/Aux-in functions work normally.","1. Ensure the speaker is powered on and has sufficient battery. Charge if needed.
+2. Confirm the speaker is connected to Wi-Fi (required for voice assistant functionality). Open the companion app and verify network status.
+3. Check if the microphone mute button (usually marked with a mic symbol) is enabled. If so, press it to unmute the microphones. The LED ring should indicate status change.
+4. Restart the speaker by turning it off, waiting 10 seconds, then turning it back on.
+5. In the companion app, verify that voice assistant setup is complete and that you've selected either Alexa or Google Assistant as your preferred assistant.
+6. Try using the wake word again ('Alexa' or 'Hey Google') near the speaker. Speak clearly and ensure you're within 2 meters.
+7. If still unresponsive, reset the speaker to factory settings (hold the reset button for 10 seconds—refer to user manual for exact location). Reconfigure Wi-Fi and voice assistant setup.
+8. If the issue persists, contact TechMart support with details of troubleshooting steps taken."
+TabLink Active Stylus Not Responding on Display,SKU170,"The TabLink Active Stylus does not draw or select items on the TabLink S10 tablet screen. Touch input with fingers works normally, but the stylus produces no response. The stylus LED may be off or blinking.","1. Ensure the stylus is charged: Connect the TabLink Active Stylus to a USB-C charger for at least 30 minutes, then try using it again.
+2. Confirm Bluetooth pairing: Go to Settings > Bluetooth on your TabLink S10 and check if 'TabLink Active Stylus' appears as a connected device. If not, hold the stylus pairing button for 3 seconds to enter pairing mode and reconnect.
+3. Clean the screen: Gently wipe the display with a microfiber cloth to remove any dirt or residue that could affect stylus detection.
+4. Remove and reattach the Magnetic Keyboard Cover (if attached), as it may interfere with the stylus sensor area.
+5. Restart the tablet: Press and hold the power button, then select Restart. After reboot, test the stylus again.
+6. Test the stylus on another compatible device (if available) to rule out hardware failure.
+7. If the stylus still does not respond, contact TechMart support for further assistance or warranty service."
+SSD Not Detected in BIOS/UEFI,SKU063,"The DataStream NVMe SSD 2TB is not listed under storage devices in BIOS/UEFI settings. The operating system installer or disk management tools do not show the SSD. The system boots normally if another drive is present, but the SSD remains invisible.","1. Power off your computer and disconnect it from power.
+2. Open your PC case and ensure the DataStream NVMe SSD is firmly seated in the M.2 slot.
+3. Check for any dust or debris in the M.2 slot and gently clean if necessary.
+4. If your motherboard supports multiple M.2 slots, try moving the SSD to a different slot.
+5. Power on the system and enter BIOS/UEFI (usually by pressing DEL, F2, or a similar key during startup).
+6. In BIOS/UEFI, verify if the SSD is listed under storage or NVMe devices.
+7. If not detected, check if 'PCIe/NVMe' mode is enabled for the M.2 slot (see motherboard manual for detailed settings).
+8. Update your motherboard BIOS/UEFI firmware to the latest version from the manufacturer's website.
+9. If the SSD still does not appear, test it in another compatible system (if available) to rule out a hardware defect.
+10. If the SSD is still not detected, contact TechMart support for warranty service or replacement."
+Laptop Riser Joints Slipping Under Weight,SKU299,"The FlexiStand Pro does not hold its set height or angle and gradually collapses or shifts position when a laptop is placed on it, even if the laptop is under the 8 kg weight limit. Users may notice the riser slowly lowering or tilting during use.","1. Remove your laptop from the riser to avoid further slippage or damage.
+2. Inspect all adjustment joints and locking mechanisms for visible debris, dust, or signs of wear.
+3. Ensure all locking knobs and levers are fully tightened. Some joints may require a firm twist or click to engage.
+4. Wipe the joints and contact surfaces with a clean, dry cloth to remove any dust or residue that may interfere with grip.
+5. Check for any foreign objects or obstructions stuck in the adjustment tracks or hinges, and carefully remove them.
+6. Re-adjust the riser to your desired height and angle, then tighten all locks securely. Test stability by gently pressing down on the stand before placing your laptop back on it.
+7. Place your laptop back on the riser and observe for any slippage. If the issue persists, remove the laptop and repeat tightening. If the riser continues to slip, contact TechMart support for possible replacement or repair."
+No Signal Detected on HDMI 2.1 Port,SKU205,"When connecting a device to the PixelEdge 32Q Curved Monitor using the HDMI 2.1 port, the screen remains black and displays a 'No Signal' message. The monitor’s power LED is on, and other ports (such as DisplayPort or USB-C) may work normally.","1. Ensure the HDMI cable is firmly connected to both the monitor and the source device (PC, console, etc.).
+2. Verify that the source device is powered on and not in sleep mode.
+3. Try a different HDMI cable rated for HDMI 2.0 or higher to rule out a faulty or incompatible cable.
+4. Check that the monitor’s input source is set to HDMI (press the monitor's input/source button and select HDMI 2.1).
+5. Connect the source device to another monitor or TV to confirm the device outputs a signal correctly.
+6. If available, test the monitor’s HDMI port with another device to determine if the issue is with the monitor or the source device.
+7. Update the graphics drivers on your source device to ensure compatibility with high refresh rate monitors.
+8. If using a gaming console, ensure its video output settings are within the supported resolution (2560x1440) and refresh rate (up to 165Hz).
+9. Power cycle both the monitor and the source device: turn them off, unplug them for 30 seconds, then reconnect and power on.
+10. If the problem persists, contact TechMart support with your troubleshooting results."
+EchoPulse S7 does not respond to voice commands,SKU180,"The smart speaker does not react when saying 'Alexa' or 'Hey Google'. The LED ring does not light up when prompted, but music playback via Bluetooth or AUX works as expected. Wi-Fi appears to be connected.","1. Check if the microphone mute button on the speaker is enabled (look for a red LED indicator). If so, press it once to unmute the microphone.
+2. Ensure the speaker is within range of your Wi-Fi router and that your internet connection is active. Try streaming music via Wi-Fi to confirm connectivity.
+3. Restart the EchoPulse S7 by holding the power button for 5 seconds, then power it on again.
+4. Open the EchoPulse app on your smartphone and check for any firmware updates. Install updates if available.
+5. In the app, verify that the assistant (Alexa or Google Assistant) is enabled and properly set up.
+6. If the issue persists, perform a factory reset by holding both the volume up and play/pause buttons together for 10 seconds until the LED ring flashes white. Set up the speaker again via the app.
+7. If none of these steps resolve the issue, contact TechMart support for further assistance."
+ZenithBook 15 Evo Not Charging When Plugged In via Thunderbolt 4,SKU050,"When the laptop is connected to the charger via either Thunderbolt 4 USB-C port, the battery icon shows 'Plugged in, not charging.' The charging LED does not turn on. The laptop only charges intermittently or not at all, even when using the original charger.","1. Ensure you are using the original ZenithBook 15 Evo charger and USB-C cable that came with your laptop. Third-party chargers may not provide sufficient power.
+2. Try plugging the charger into the other Thunderbolt 4 USB-C port to rule out a port-specific issue.
+3. Inspect both USB-C ports and the charger cable for dust, debris, or visible damage. Use compressed air to clean the ports if needed.
+4. Disconnect the charger from both the laptop and wall outlet. Wait 30 seconds, then reconnect and check if charging begins.
+5. With the laptop powered off, connect the charger and observe if the charging LED turns on. If it does, power on the laptop and check if Windows now recognizes charging.
+6. In Windows, right-click the battery icon, select 'Power & sleep settings,' then click 'Additional power settings.' Ensure no battery saver or charging limit settings are enabled.
+7. Open Device Manager, expand 'Batteries,' right-click 'Microsoft ACPI-Compliant Control Method Battery,' and select 'Uninstall device.' Restart the laptop; the driver will reinstall automatically.
+8. If the issue persists, try charging another USB-C device with the charger to confirm the charger is working. If other devices do not charge, the charger may be faulty.
+9. If none of the above steps resolve the issue, contact TechMart support for further assistance or potential hardware service."
+Active Stylus Pen Not Responding on TabStream X10,SKU123,"When attempting to write or draw on the TabStream X10 display using the included Active Stylus Pen, no lines or input appear on the screen. The tablet responds to finger touch, but the stylus has no effect. The stylus LED (if present) does not light up or blink when in use.","1. Ensure the stylus battery is charged. If the stylus uses a replaceable battery, install a fresh battery. If rechargeable, charge it for at least 30 minutes.
+2. Remove any screen protector or thick case that may interfere with stylus input and test again.
+3. Restart the TabStream X10 by holding the power button and selecting 'Restart.'
+4. Open the tablet's Settings > Connected Devices > Stylus, and check if the stylus is recognized. If not, tap 'Add New Stylus' and follow on-screen instructions.
+5. Test the stylus on another compatible device (if available) to determine if the issue is with the stylus or tablet.
+6. If the stylus still does not work, perform a factory reset (after backing up important data): Settings > System > Reset > Factory Data Reset.
+7. If none of these steps resolve the issue, contact TechMart support for repair or replacement options."
+Keyboard Not Detected in 2.4GHz Wireless Mode,SKU257,"When switching the KeySync Wireless Pro Keyboard to 2.4GHz mode, key presses do not register on the computer. The keyboard's status LED flashes blue three times when a key is pressed, and the included USB dongle does not light up or appear in the device list. The keyboard works normally in Bluetooth and wired (USB-C) modes.","1. Ensure the USB dongle is securely plugged into a working USB port on your computer. Try a different port if available.
+2. Move the keyboard closer to the dongle to eliminate interference or distance issues.
+3. Toggle the keyboard power switch off, wait 5 seconds, then switch it back on.
+4. Make sure the keyboard is set to 2.4GHz mode (check the mode switch/button per the user manual).
+5. If the dongle still does not light up, restart your computer to refresh USB devices.
+6. Re-pair the keyboard to the dongle: Hold the 'Fn' + 'P' keys together for 5 seconds until the LED blinks rapidly, then unplug and reinsert the dongle.
+7. If the issue persists, test the keyboard and dongle on another computer to rule out PC-specific issues.
+8. If none of these steps work, contact TechMart support for further assistance or a replacement dongle."
+Mouse Not Charging When Connected via USB-C,SKU114,"The GlideMaster MX Wireless Mouse does not charge when connected to a USB-C cable. The battery LED does not illuminate, and the mouse remains low on battery or turns off after a short period. The mouse may still function in wired mode, but the battery percentage does not increase.","1. Inspect the USB-C cable and port for visible damage or debris; try a different cable if available.
+2. Connect the mouse directly to a different USB port on your computer or to a wall charger rated at least 5V/1A.
+3. Confirm the cable is inserted fully and securely into both the mouse and the power source.
+4. Check if the battery LED indicator lights up or blinks; on this model, a solid amber LED means charging, while no light may indicate a problem.
+5. If the mouse works in wired mode but does not charge, perform a reset: unplug the cable, turn off the mouse using the power switch, wait 10 seconds, then turn it on and reconnect the cable.
+6. Try charging the mouse for at least 30 minutes uninterrupted. If the battery still doesn't charge, test with another compatible USB-C charger.
+7. If the issue persists, contact TechMart Support for repair or replacement options."
+No Signal Detected on DisplayPort Connection,SKU240,"When connecting the PixelCraft 32Q Curved Monitor to a PC using the DisplayPort cable, the monitor shows 'No Signal' on screen. The power LED is on, but the display remains black. The issue persists even after restarting the computer.","1. Ensure both ends of the DisplayPort cable are securely connected to the monitor and the PC's graphics card.
+2. Verify that the correct input source (DisplayPort) is selected on the monitor. Press the Input or Source button to cycle through inputs until DisplayPort is selected.
+3. Test the DisplayPort cable with another device or use a different DisplayPort cable to rule out a faulty cable.
+4. Check that your graphics card drivers are up to date. Update them via your PC manufacturer's website or graphics card vendor.
+5. If you are using an adapter (e.g., DisplayPort to HDMI), try a direct DisplayPort-to-DisplayPort connection if possible.
+6. Power cycle both the monitor and your PC: turn both off, unplug them from power for 30 seconds, then reconnect and power on.
+7. Connect the monitor to another computer via DisplayPort to determine if the issue is with the monitor or the PC.
+8. If the monitor works with other devices but not your PC, check your PC's display settings to ensure the monitor is detected and enabled as an output display.
+9. If the problem remains unresolved, contact TechMart Support for further assistance."
+5GHz WiFi Network Not Visible on Devices,SKU307,"Users are unable to see or connect to the router's 5GHz WiFi network. The 2.4GHz network appears and functions normally, but laptops, smartphones, and other devices do not show the 5GHz SSID in their available networks list. Wired connections and router admin access work as expected.","1. Ensure your devices support 5GHz WiFi. Some older devices only support 2.4GHz networks.
+2. Log in to the NetPulse AX6000 router's web interface (typically http://192.168.1.1) using your admin credentials.
+3. Navigate to the 'Wireless Settings' section and confirm that the 5GHz band is enabled. If it is disabled, enable it and save your changes.
+4. Check the 5GHz SSID name. If it is hidden or set to 'Invisible', change it to 'Visible' and save your settings.
+5. Change the 5GHz wireless channel to a lower channel (e.g., 36, 40, 44, or 48) as some devices and regions do not support higher channels.
+6. Reboot the router and the affected devices.
+7. Move closer to the router, as 5GHz signals have a shorter range than 2.4GHz. See if the network appears.
+8. If the issue persists, perform a factory reset on the router (press and hold the reset button for 10 seconds), then reconfigure your wireless settings.
+9. If none of these steps resolve the issue, contact TechMart support for further assistance."
+Mouse Pointer Lag or Stuttering During Use,SKU102,"While using the GlideTech Pulse X Wireless Mouse, the on-screen pointer moves inconsistently, lags behind hand movement, or appears to stutter. This may occur even with a fully charged battery and when within normal wireless range. The issue can be intermittent or constant and is most noticeable during quick or precise movements.","1. Ensure there are no physical obstructions or electronic devices (such as Wi-Fi routers or USB 3.0 hubs) between the mouse and the wireless receiver that could cause interference.
+2. Plug the wireless USB dongle directly into a USB port on your computer, avoiding USB hubs or extension cables.
+3. If available, try a different USB port, preferably on the opposite side of the computer from any potential sources of interference.
+4. Check that the mouse battery is sufficiently charged. Connect the mouse via the supplied USB-C cable and allow it to charge for at least 30 minutes, then test again.
+5. Make sure your mouse is being used on a clean, non-reflective, and uniform surface. Highly reflective or transparent surfaces can interfere with the PixArt PAW3370 optical sensor.
+6. If the issue persists, install or update the GlideTech Pulse X software/drivers from the official website, then restart your computer.
+7. Test the mouse on a different computer to determine if the problem is specific to your system or environment.
+8. If none of these steps resolve the issue, contact TechMart Support for further assistance or warranty evaluation."
+Cannot Print via Wi-Fi 6 Network,SKU158,"When attempting to print wirelessly, the PrintLogic X500 printer does not appear in the list of available printers on your device. Print jobs sent over Wi-Fi are not received by the printer. The printer's Wi-Fi indicator may be blinking or solid red.","1. Ensure your printer is powered on and the Wi-Fi indicator is lit.
+2. Verify that your Wi-Fi network is operating normally and that other devices can connect to it.
+3. Confirm that the printer and your computer or mobile device are connected to the same Wi-Fi network (SSID).
+4. On the printer, navigate to the network settings menu and select 'Wi-Fi Setup' to reconnect to your wireless network. Re-enter the Wi-Fi password if prompted.
+5. Restart both your printer and your router.
+6. On your computer or mobile device, remove the PrintLogic X500 from your list of printers, then add it again using the 'Add Printer' function.
+7. Ensure the latest PrintLogic X500 drivers/software are installed on your device. Download updates from the official TechMart support site if necessary.
+8. If printing still fails, try connecting via USB-C or Ethernet to confirm if the issue is specific to Wi-Fi connectivity.
+9. If the Wi-Fi indicator remains red after setup, perform a factory reset on the printer (see user manual), then repeat the Wi-Fi setup process.
+10. If the problem persists, contact TechMart Support for further assistance."
+Active Stylus Not Responding on TabFlow X10,SKU228,"The Active Stylus does not interact with the tablet screen. Touch input with fingers works normally, but the stylus does not register taps, writing, or drawing. The stylus LED (if present) does not light up or blinks intermittently.","1. Ensure the stylus is charged. If your stylus uses a battery or is rechargeable, connect it to a charger for at least 30 minutes.
+2. Verify that the stylus tip is securely attached and not damaged. Replace the tip if it appears worn or loose.
+3. Remove any screen protector or case that may interfere with stylus detection.
+4. Restart the TabFlow X10 by holding the power button for 10 seconds, then turn it back on.
+5. Go to Settings > Bluetooth and check if the stylus appears as a connected device (if your stylus uses Bluetooth). If not, pair it again following the stylus manual instructions.
+6. Open the pre-installed Notes app and try using the stylus. If it still does not respond, test the stylus on another compatible device, if available.
+7. If the stylus works on another device or after replacing the tip, your TabFlow X10 may need a software update. Go to Settings > System > Software Update and install any available updates.
+8. If the problem persists, contact TechMart support for further assistance or to request a replacement stylus."
+"CoreStation X5 Desktop Fails to Boot (Fans Spin, No Display)",SKU294,"When the power button is pressed, the fans and LED lights turn on, but there is no image on the monitor. The monitor may show 'No Signal'. There are no BIOS beeps or error codes. The system does not proceed to Windows login.","1. Check that the monitor is powered on and the video cable is securely connected to the NVIDIA GeForce RTX 4060 graphics card (not the motherboard video ports).
+2. Try a different video cable and/or port on the graphics card (e.g., switch from HDMI to DisplayPort).
+3. Ensure the monitor is set to the correct input source.
+4. Power off the desktop and unplug it from the wall. Hold the power button for 5 seconds, then reconnect and try again.
+5. Open the case (if comfortable and warranty allows):
+   a. Reseat the RAM sticks by removing and firmly reinserting them into their slots.
+   b. Ensure the graphics card is securely seated in the PCIe slot and its power connector is plugged in.
+6. Disconnect all USB devices except keyboard and mouse, then attempt to boot again.
+7. If available, try a different monitor to rule out display issues.
+8. If the issue persists, contact TechMart support for further assistance or possible hardware diagnostics."
+Printer Not Detected on Wi-Fi Network,SKU282,The PrintEase Pro 410 is not appearing in the list of available printers on your computer or mobile device. Attempts to print wirelessly fail with 'Printer not found' or 'Offline' errors. The Wi-Fi LED on the printer may be blinking or off.,"1. Check that the printer is powered on and the Wi-Fi LED is solid (not blinking). If it's off or blinking, continue to the next step.
+2. On the printer's control panel, navigate to Settings > Network > Wireless Setup Wizard. Follow the prompts to reconnect the printer to your Wi-Fi network.
+3. Ensure your computer or mobile device is connected to the same Wi-Fi network as the printer.
+4. Restart your router, wait 2 minutes, and then restart the printer.
+5. On your computer, remove the PrintEase Pro 410 from the list of installed printers, then add it again via your operating system's printer setup utility.
+6. If using AirPrint or Google Cloud Print, verify those services are enabled on the printer and supported on your device.
+7. If the problem persists, try connecting the printer via USB to see if it's recognized. If it is, update the printer's firmware from the manufacturer website, then retry wireless setup.
+8. If none of these steps resolve the issue, contact TechMart support for advanced assistance."
+No Sound from Monitor Audio Out Port,SKU312,"When headphones or external speakers are connected to the monitor's Audio Out port, no sound is heard. The monitor displays video correctly, and the computer's volume is up, but audio is not transmitted through the monitor's output. Connecting headphones or speakers directly to the PC works as expected.","1. Ensure headphones or speakers are securely plugged into the monitor's Audio Out port (not the PC). 
+2. Verify that the video cable in use (HDMI, DisplayPort, or USB-C) supports audio transmission. Note: DisplayPort and HDMI support audio; some USB-C sources may not. 
+3. On your PC, right-click the sound/volume icon in the system tray and select 'Playback devices' (Windows) or 'Sound Output' (Mac). 
+4. Set the monitor (e.g., 'PixelFusion 32 QHD' or similar) as the default audio output device. 
+5. Play audio and check for sound through the monitor's Audio Out port. 
+6. If still no sound, try using a different audio-capable cable (e.g., switch from HDMI to DisplayPort, or try another HDMI cable). 
+7. Test with another device (e.g., a different computer or game console) to rule out a PC configuration issue. 
+8. If the issue persists, unplug all cables and power, wait 60 seconds, then reconnect and power on. 
+9. If there is still no audio, contact TechMart support for further assistance."
+No Signal Detected via USB-C Connection,SKU215,"When connecting a laptop or device to the PixelCraft 32Q HDR Monitor using the USB-C port, the screen remains black and displays 'No Signal' even though the device is charging via USB-C. Other input sources (HDMI, DisplayPort) work correctly.","1. Confirm that your device supports video output over USB-C (DisplayPort Alt Mode). Charging alone does not guarantee video support.
+2. Ensure the USB-C cable in use supports both power delivery and video data transfer (check cable specs or try a different cable, preferably the one supplied with the monitor).
+3. On your monitor, press the input/source button and select 'USB-C' as the active input.
+4. On your device, verify that extended/mirrored display output is enabled in display settings. For Windows: right-click desktop > Display Settings > Detect/Identify. For macOS: Apple menu > System Settings > Displays.
+5. Disconnect and reconnect the USB-C cable at both ends. Restart both your device and the monitor.
+6. If possible, test with another USB-C device that is known to support video output.
+7. If the issue persists, update your device's graphics drivers and firmware. Also, check for monitor firmware updates on the TechMart support site.
+8. If none of the above steps resolve the issue, contact TechMart support for further assistance."
+Laptop Not Charging When Connected to USB-C Power Adapter,SKU177,"When the ZenithBook 15 Evo is plugged into the USB-C power adapter, the battery icon in Windows shows 'Plugged in, not charging' or does not display the charging symbol. The laptop may eventually run out of battery even though it is connected to power. The power adapter's LED is on, and other USB-C devices (like storage drives) are recognized.","1. Ensure you are using the original 100W USB-C power adapter and cable provided with your ZenithBook 15 Evo. Third-party chargers may not supply sufficient power.
+2. Check that the USB-C cable is securely connected to both the adapter and the laptop's Thunderbolt 4 port. Try both USB-C ports on your laptop.
+3. Inspect the USB-C port and cable ends for debris or damage. Remove any lint or dirt gently with a dry brush or compressed air.
+4. Unplug the adapter from the wall and the laptop, wait 30 seconds, then reconnect both ends firmly.
+5. If possible, test the power adapter and cable with another compatible device, or test your laptop with a known-working USB-C charger.
+6. Restart your laptop. Sometimes, charging issues are resolved after a reboot.
+7. Update your laptop's BIOS and chipset drivers:
+  a. Visit https://www.techmart.com/support/zenithbook15evo
+  b. Download and install the latest BIOS and Intel chipset drivers.
+8. If the issue persists, perform a battery reset:
+  a. Shut down the laptop.
+  b. Hold down the power button for 15 seconds.
+  c. Wait 1 minute, then connect the charger and power on the laptop.
+9. If the laptop still does not charge, contact TechMart support for further assistance or to arrange a hardware inspection."
+Tabio Pen 2 Not Responding on Slate 11 Pro Display,SKU083,"The Tabio Pen 2 stylus does not write, draw, or interact with the Slate 11 Pro screen. The tablet otherwise responds to touch with fingers. No marks appear when writing, and there is no on-screen notification when the pen is brought close to the display.","1. Ensure the Tabio Pen 2 is fully charged, if applicable. Some models have a rechargeable battery—connect the pen to a USB-C charger for at least 15 minutes.
+2. Remove any third-party screen protectors or covers from the Slate 11 Pro, as some thick or metallic protectors can interfere with pen input.
+3. Restart the Slate 11 Pro by holding the power button and selecting 'Restart'.
+4. Open Settings > Connected Devices > Tabio Pen and check if the pen is listed or connected. If not, tap 'Add Device' and follow prompts.
+5. Try the Tabio Pen 2 on a different area of the screen. If only part of the display is unresponsive, check for physical damage.
+6. Test the pen with another compatible Tabio device, if available, to rule out pen hardware failure.
+7. If the pen and tablet still do not interact, go to Settings > System > System Update and check for any available firmware or OS updates. Install and restart.
+8. If the issue persists, contact TechMart support for further assistance or to arrange a warranty replacement."
+SwiftPoint MX2 Mouse Not Charging or Powering On,SKU040,"The mouse does not turn on when the power button is pressed. No LED lights are visible. When connected to the charger, the charging LED does not illuminate and the mouse remains unresponsive.","1. Ensure the charging cable is securely connected to both the mouse and a working USB port or charger.
+2. Try using a different USB cable and charging port to rule out cable or port issues.
+3. Inspect the charging contacts on the mouse and cable for dust or debris—clean gently with a dry cloth if needed.
+4. Leave the mouse connected to the charger for at least 30 minutes to allow for a deep charge if the battery was fully depleted.
+5. After charging, press and hold the power button for 3 seconds to turn the mouse on.
+6. If the mouse still does not power on, perform a reset by holding both the left and right mouse buttons along with the DPI button for 10 seconds.
+7. If the issue persists, the battery may be faulty. Please contact TechMart support for further assistance or warranty service."
+Print Jobs Stuck in Queue (Network Printing),SKU190,"When sending print jobs over Wi-Fi or Ethernet, documents remain in the print queue and do not print. The printer's display shows 'Ready' or 'Idle', but nothing is printed. Other devices may also be unable to print, and restarting the computer does not resolve the issue.","1. Ensure the PrintEase ColorJet 4500 is powered on and connected to the same network as your computer or mobile device.
+2. Check the printer's control panel for any error messages (e.g., 'Offline', 'Paper Jam'). Resolve any displayed errors first.
+3. On your computer, open the print queue (Devices & Printers > PrintEase ColorJet 4500 > See what's printing) and check if jobs are paused or stuck. Right-click and select 'Cancel' for all stuck jobs.
+4. Restart both your printer and your computer. Allow both devices to fully power off before turning them back on.
+5. Verify your network connection: On the printer, navigate to Settings > Network > Wireless Status (or Ethernet Status). Confirm it says 'Connected'. If not, reconnect to your Wi-Fi or Ethernet.
+6. Update the printer driver/software on your computer. Visit the TechMart support site and download the latest drivers for the PrintEase ColorJet 4500.
+7. If using AirPrint or Cloud Print, try printing a test page directly from your smartphone or tablet. If it fails, remove and re-add the printer on your device.
+8. As a last resort, reset the printer's network settings: Go to Settings > Network > Restore Network Defaults and reconnect to your network.
+9. Try printing again. If the issue persists, contact TechMart Support for advanced troubleshooting."
+No Signal Detected on HDMI 2.1 Ports,SKU006,"When connecting a device (such as a PC, laptop, or gaming console) to either of the HDMI 2.1 ports on the VisionView 34 Ultrawide Monitor, the screen remains black with a 'No Signal' message displayed. The monitor's power LED is on, and other ports (such as DisplayPort) may work normally.","1. Ensure the monitor is powered on and the power LED is illuminated.
+2. Confirm that the connected device is powered on and fully booted.
+3. Verify the HDMI cable is securely connected to both the device and the monitor's HDMI 2.1 port. Try unplugging and reconnecting both ends.
+4. Test with a different, high-quality HDMI cable (preferably rated for HDMI 2.1) to rule out cable faults.
+5. Switch to the alternate HDMI 2.1 port on the monitor and check if the signal appears.
+6. Use the monitor's input/source button to manually select the correct HDMI input.
+7. On your connected device, ensure the display output is set to HDMI and that the resolution/refresh rate does not exceed 3440×1440 @ 165Hz.
+8. If connecting a PC, update your graphics drivers and restart the system.
+9. Test the HDMI ports with a different device (such as a different laptop or console) to determine if the issue is with the original device.
+10. If 'No Signal' persists on both HDMI ports with multiple devices and cables, contact TechMart support for further assistance."
+Keyboard Not Detected Over 2.4GHz Wireless Connection,SKU030,"When using the 2.4GHz wireless mode, the KeyStream 75 keyboard is not recognized by the computer. No keys register, and the keyboard's indicator light remains off or blinks rapidly. The keyboard works when connected via USB-C or Bluetooth.","1. Ensure the USB 2.4GHz dongle is firmly inserted into a working USB port on your PC or laptop.
+2. Slide the keyboard's power switch to the ON position.
+3. Press the mode switch key (Fn + 4) to select 2.4GHz mode. The indicator light should blink or turn solid to confirm the mode.
+4. If the indicator flashes rapidly, the keyboard is not paired. Remove the dongle, wait 5 seconds, and re-insert it into a different USB port.
+5. With the keyboard in 2.4GHz mode, press and hold Fn + Esc for 3 seconds to initiate pairing. The indicator should flash quickly.
+6. Wait for the light to turn solid, indicating a successful connection. Test typing to confirm.
+7. If the issue persists, try on another computer to rule out port or system issues.
+8. If still unresolved, reset the keyboard by holding Fn + Space for 5 seconds (lights will flash), then repeat pairing steps.
+9. If none of these steps work, contact TechMart support for further assistance."
+DataVault NVMe SSD Not Detected in BIOS or Windows,SKU160,"After installing the DataVault NVMe SSD 2TB, the drive does not appear in the BIOS/UEFI storage list or in Windows Disk Management. The operating system does not detect the SSD, and no new storage device is available for formatting or partitioning.","1. Power off your PC and disconnect it from the power source. 
+2. Open your PC case and ensure the DataVault NVMe SSD is fully seated in the M.2 slot. Remove and reinsert the SSD if necessary, making sure it clicks into place and is secured with the mounting screw.
+3. Verify that your motherboard supports PCIe Gen4 x4 NVMe SSDs. If unsure, consult your motherboard's manual or manufacturer's website.
+4. Boot into your BIOS/UEFI settings. Look for a section labeled 'NVMe Configuration,' 'Storage Configuration,' or similar. Check if the SSD is listed. If not, try the following sub-steps:
+   a. Update your motherboard's BIOS/UEFI firmware to the latest version, following the manufacturer's instructions.
+   b. Try installing the SSD in a different M.2 slot if available (some slots may be disabled by default or share bandwidth with other devices).
+5. Save BIOS/UEFI settings and reboot into Windows. Open Disk Management (press Win+X and select 'Disk Management'). Check if the SSD appears as 'Unallocated.' If so, initialize and format the drive.
+6. If the SSD is still not detected, test the SSD in another compatible system if possible. If it works elsewhere, the issue may be with your motherboard. If the drive is not detected in any system, contact TechMart support for further assistance or to initiate a warranty claim."
+Laptop Stand Fails to Hold Position (Collapses Under Load),SKU039,"When a laptop is placed on the FlexStand Pro, the stand gradually lowers, collapses, or cannot maintain the set height or angle. Users may notice the platform slipping downwards or not staying securely at the chosen adjustment, especially with heavier laptops (up to 10kg).","1. Remove your laptop and any other items from the stand to prevent further strain.
+2. Inspect the adjustment mechanism and locking levers or knobs for visible damage or debris.
+3. Tighten all adjustment knobs or levers firmly by hand; do not use excessive force or tools, which may damage the mechanism.
+4. Re-set the stand to your desired height and angle, making sure each adjustment point clicks or locks securely into place.
+5. Gradually place your laptop onto the stand, checking if the platform holds position. Do not exceed the 10kg maximum load.
+6. If the stand still collapses, check for any loose screws or joints and gently tighten them with an appropriate screwdriver if accessible.
+7. If the mechanism remains loose or will not lock, discontinue use and contact TechMart Support for warranty assessment or replacement options."
+No Display Output via HDMI 2.1 Port,SKU208,"When connecting the PixelEdge 15 Evo Laptop to an external monitor or TV using the HDMI 2.1 port, the external display remains blank or shows 'No Signal.' The laptop screen functions normally, and the HDMI cable and external monitor work with other devices.","1. Confirm that the HDMI cable is fully inserted into both the laptop's HDMI 2.1 port and the external display.
+2. Ensure the external monitor/TV is powered on and set to the correct HDMI input source.
+3. On the laptop, press Windows Key + P to open the display mode menu. Select 'Duplicate' or 'Extend' to activate the external display.
+4. If no image appears, right-click on the desktop and select 'Display settings.' Scroll to 'Multiple displays' and click 'Detect.'
+5. Try using a different HDMI cable and/or port on the external monitor to rule out cable or display issues.
+6. Restart the laptop with the HDMI cable connected and monitor powered on.
+7. Update the graphics drivers: Go to Device Manager > Display adapters > right-click your graphics card > Update driver.
+8. If the issue persists, check for Windows updates to ensure system compatibility.
+9. If none of the above steps resolve the issue, contact TechMart Support for further assistance or hardware inspection."
+PixelStream X5 5G Smartphone: Screen Flickering or Ghost Touches,SKU171,"While using the PixelStream X5, the display intermittently flickers, shows horizontal lines, or registers touches that were not made (ghost touches). This issue may occur regardless of which app is open, and can be more noticeable when the screen brightness is low or during prolonged use.","1. Remove any third-party screen protector or case to rule out interference with the touchscreen.
+2. Clean the display gently with a microfiber cloth to ensure no moisture or residue is affecting touch sensitivity.
+3. Restart your device by holding the power button and selecting 'Restart.'
+4. Update your PixelStream X5 to the latest software version: Go to Settings > System > System Update.
+5. Boot your device into Safe Mode (press and hold the power button, then tap and hold 'Power Off' until 'Reboot to Safe Mode' appears) to see if the issue persists. If the problem goes away, a third-party app may be causing the issue; uninstall recently installed apps.
+6. If the problem persists, back up your data and perform a factory reset: Settings > System > Reset > Factory Data Reset.
+7. If none of the above steps resolve the issue, please contact TechMart Support or visit an authorized service center for further diagnosis, as the display hardware may require inspection or replacement."
+Active Noise Cancellation Not Working,SKU008,"When ANC is enabled, background noise is not reduced. The ANC indicator light turns on, but users still hear outside sounds at normal levels. No difference is noticed between ANC on and off modes.","1. Ensure the headphones are fully charged. Low battery can affect ANC performance.
+2. Confirm that ANC is enabled: press and hold the ANC button until the indicator light turns green.
+3. Test ANC in a noisy environment (e.g., near a fan or traffic) to check for any reduction in background noise.
+4. Check for any debris or blockages in the ear cups that may affect the microphones used for ANC.
+5. Power off the headphones, wait 10 seconds, and power them back on. Re-enable ANC.
+6. If using the headphones via Bluetooth, disconnect and reconnect to your device to rule out software glitches.
+7. If the issue persists, reset the headphones by pressing and holding the power and ANC buttons together for 10 seconds until the LED flashes blue and green.
+8. If none of these steps restore ANC function, contact TechMart support for further assistance or warranty service."
+Active Stylus Pen Not Responding on Screen,SKU038,"When attempting to use the Active Stylus Pen with the TabAxis 11 Pro, the tablet does not register any input from the pen. Hand or finger touch still works normally. The stylus LED may not light up, or may flash briefly when a button is pressed.","1. Ensure the stylus battery is charged. If the pen uses a rechargeable battery, connect it to the charger for at least 30 minutes.
+2. Detach any screen protector or case that may interfere with the stylus tip, and try using the pen again.
+3. Restart the TabAxis 11 Pro by holding the power button and selecting 'Restart'.
+4. Open Settings > Connected Devices > Stylus & Accessories, and check if the Active Stylus Pen is detected. If not, tap 'Pair new device' and follow on-screen instructions.
+5. Test the stylus on different apps (e.g., Notes, Drawing Pad) to rule out app-specific issues.
+6. Inspect the stylus tip for damage or debris. If removable, gently clean or replace the tip.
+7. If the issue persists, try the stylus on another compatible device (if available) to determine if the pen itself is faulty.
+8. If none of these steps resolve the problem, contact TechMart support for warranty service or replacement options."
+No Signal Detected on USB-C Connection,SKU070,"When connecting a laptop or device via USB-C, the PixelEdge 32Q Pro Monitor displays 'No Signal' or remains blank. The monitor's power LED is on, and other ports (HDMI/DisplayPort) work normally. The laptop may charge via USB-C, but no image appears.","1. Ensure both the monitor and the laptop are powered on.
+2. Check that the USB-C cable is securely connected to both the monitor's USB-C port and your device.
+3. Confirm that your laptop supports video output (DisplayPort Alt Mode) over USB-C—some USB-C ports only support charging or data.
+4. Try a different, high-quality USB-C cable rated for video and power delivery.
+5. On your monitor, press the Input/Source button and select 'USB-C' as the active input.
+6. On your laptop, make sure display mirroring or extended desktop is enabled in display settings.
+7. Disconnect all other video cables from the monitor to avoid input conflicts.
+8. If possible, test the USB-C connection with another device to determine if the issue is with the monitor or the laptop.
+9. If the issue persists, restart both the monitor and your device, then try again.
+10. If none of these steps resolve the problem, contact TechMart support with your monitor's serial number and a description of the issue."
+No Signal Detected on USB-C Input,SKU185,"When connecting a laptop or compatible device to the PixelEdge 32 QHD Monitor via USB-C, the monitor displays 'No Signal' or goes into standby mode. The device may still charge via USB-C, but no image appears.","1. Ensure the USB-C cable is securely connected to both the monitor's USB-C port and your device.
+2. Verify that your device supports video output over USB-C (DisplayPort Alt Mode). Some devices only support charging/data.
+3. Check that the monitor input source is set to 'USB-C'. Use the monitor's on-screen menu to manually select the USB-C input.
+4. Try a different USB-C cable that is rated for video and power delivery (not all cables support video output).
+5. Disconnect other video cables (HDMI, DisplayPort) from the monitor to avoid input conflicts.
+6. Restart both the monitor and your device.
+7. Update the graphics drivers on your device to the latest version.
+8. If possible, test with another device that supports USB-C video output to rule out device-specific issues.
+9. If the issue persists, reset the monitor to factory settings via the on-screen menu.
+10. Contact TechMart support if none of the above steps resolve the issue."
+Active Stylus Not Responding on Screen,SKU228,"The included Active Stylus does not interact with the TabFlow X10 display. Touch input with fingers works normally, but the stylus does not draw, select, or register any input. The stylus indicator light may be off or flashing. No response in note-taking or drawing apps.","1. Ensure the stylus tip is not damaged or worn out. Replace the tip if necessary.
+2. Check that the stylus battery is charged. Connect the stylus to the USB-C charger for at least 30 minutes, then try again.
+3. Restart the TabFlow X10 by holding the power button for 10 seconds and selecting 'Restart.'
+4. Confirm stylus support is enabled: Go to Settings > Advanced Features > Stylus and make sure 'Enable Stylus Input' is turned on.
+5. Test the stylus on different apps (e.g., Notes, Sketch) to rule out app-specific issues.
+6. Remove any magnetic keyboard or case that may be interfering with the screen and retest the stylus.
+7. If the problem persists, try pairing the stylus again (if supported): Go to Settings > Bluetooth, select 'Active Stylus,' and tap 'Connect.'
+8. As a last resort, perform a factory reset after backing up your data: Settings > System > Reset > Factory Data Reset.
+If none of these steps resolve the issue, contact TechMart support for repair or replacement."
+ClearCam Stream 4K Not Detected by Computer,SKU253,"When connecting the ClearCam Stream 4K via USB-C, the webcam does not appear in video conferencing apps or the operating system's camera list. The camera's status LED does not light up, and no device notification appears. Built-in microphones are also unavailable.","1. Ensure the USB-C cable is firmly connected to both the webcam and the computer's USB-C 3.0 port. Avoid using USB hubs or adapters for initial testing.
+2. Test the webcam on a different USB-C port or another computer to rule out port or device-specific issues.
+3. Confirm your computer supports USB 3.0 or higher. The ClearCam Stream 4K may not function with USB 2.0 ports.
+4. Open your operating system's Device Manager (Windows) or System Information (macOS) to check if the camera appears under Imaging Devices or USB devices. If it shows an error, right-click and select 'Update Driver' (Windows) or restart your Mac.
+5. If the camera is still not detected, unplug the device, restart your computer, and reconnect the webcam after reboot.
+6. Inspect the USB-C cable for damage. If possible, try a different certified USB-C 3.0 cable.
+7. Check for and install any available operating system updates, as well as software updates for your video conferencing apps.
+8. If none of the above steps resolve the issue, contact TechMart support with your product serial number for further assistance."
+EchoPulse Max Not Connecting via Bluetooth,SKU092,"The speaker does not appear in the Bluetooth device list when trying to pair. The Bluetooth LED indicator flashes blue rapidly. The speaker does not respond to connection attempts from phones, tablets, or computers.","1. Ensure the EchoPulse Max is powered on and in Bluetooth pairing mode (Bluetooth LED should be flashing blue).
+2. Move the speaker and your device within 1 meter (3 feet) of each other to avoid signal interference.
+3. On your device, turn Bluetooth off, wait 5 seconds, then turn it back on.
+4. If the speaker still does not appear, press and hold the Bluetooth button on EchoPulse Max for 5 seconds to reset pairing mode. The LED should flash blue again.
+5. Forget or remove any previously paired 'EchoPulse Max' entries from your device's Bluetooth settings.
+6. Try pairing again from your device's Bluetooth menu.
+7. If unsuccessful, power off both the speaker and your device. Turn them back on and repeat the pairing process.
+8. If the issue persists, reset the EchoPulse Max by holding the power and Bluetooth buttons together for 10 seconds until the LED blinks white. Set up Bluetooth pairing again.
+9. If none of these steps work, test with a different device to rule out issues with your original device.
+10. Contact TechMart support if the speaker is still not discoverable."
+Active Stylus Not Responding on TabStream X10 Screen,SKU069,"When using the included Active Stylus on the TabStream X10, strokes are not registered on the screen. The stylus does not draw, select, or interact with apps, although finger touch works normally. The stylus's LED (if present) may not light up.","1. Ensure the stylus tip is not damaged or excessively worn. Replace the tip if necessary.
+2. Confirm that the stylus battery is charged (if it has a built-in rechargeable battery). Charge the stylus using the supplied USB-C charger for at least 30 minutes.
+3. Gently wipe the screen with a microfiber cloth to remove any dirt or residue that could affect stylus sensitivity.
+4. Restart the TabStream X10 by holding the power button and selecting 'Restart.'
+5. Remove any third-party screen protectors, as some may interfere with stylus input.
+6. Go to Settings > Connected Devices > Stylus and ensure 'Active Stylus' is enabled. If disabled, toggle it on.
+7. Test the stylus on another compatible device (if available) to determine if the issue is with the stylus or the tablet.
+8. If the stylus still does not work, perform a system update by going to Settings > System > Software Update and installing any available updates.
+9. If the problem persists, contact TechMart support for further assistance or stylus replacement."
+Laptop Stand Height Adjustment Mechanism Feels Stuck,SKU087,"When attempting to adjust the height of the FlexStand Air, the mechanism feels unusually stiff or will not move. The stand may not extend to the desired height, or may feel 'locked' in place, even when no visible obstructions are present.","1. Remove your laptop and any other objects from the stand to prevent excess weight or damage during troubleshooting.
+2. Inspect both sides of the stand for visible debris, dirt, or foreign objects in the adjustment slots or joints. Gently clear away any obstructions using a soft cloth or compressed air.
+3. Confirm that you are pressing or sliding the adjustment levers/buttons as indicated in the user manual. Some models require simultaneous pressing or releasing of safety locks.
+4. If the mechanism remains stuck, carefully apply moderate, even pressure while attempting to adjust the height—do not force it, as this could damage the aluminum joints.
+5. Check for any visible warping or bent parts, especially if the stand has been dropped or overloaded (exceeding 8kg max load).
+6. If the adjustment is still not working, lightly lubricate the hinge points with a silicone-based lubricant (avoid oil-based products that may attract dust). Wipe away any excess.
+7. Test the adjustment again. If the issue persists, discontinue use and contact TechMart support with your purchase details and a description of the problem."
+Thunderbolt 4 Ports Not Detecting External Displays,SKU208,"When connecting an external monitor to either of the PixelEdge 15 Evo's Thunderbolt 4 ports using a USB-C to HDMI or DisplayPort adapter, the display is not detected. The external monitor remains blank, and Windows does not recognize an additional display in Display Settings. Other USB devices (like flash drives) may work in the same port.","1. Verify that the external monitor is powered on and the input source matches the connected cable (e.g., HDMI or DisplayPort).
+2. Test the monitor and adapter with another device (if possible) to confirm that both are working.
+3. Disconnect and firmly reconnect the USB-C adapter to the Thunderbolt 4 port. Try the second Thunderbolt 4 port if available.
+4. On the PixelEdge 15 Evo, right-click the desktop, select 'Display settings,' and click 'Detect' under 'Multiple displays.'
+5. Open Device Manager (Win+X > Device Manager) and expand 'Display adapters' and 'Universal Serial Bus controllers.' Look for any warning icons. If found, right-click and select 'Update driver.'
+6. Check for Windows updates (Settings > Windows Update > Check for updates) and install any available updates.
+7. Visit the PixelEdge support site to download and install the latest Thunderbolt and graphics drivers for your laptop model.
+8. If the issue persists, restart the laptop and try booting with the adapter and monitor already connected.
+9. If none of these steps resolve the issue, contact TechMart support as the Thunderbolt controller may require service."
+Desktop Powers On But No Display Output,SKU068,"When pressing the power button on the CoreStation S5 Tower Desktop, the power LED lights up and internal fans spin, but no image appears on the monitor. The monitor stays black as if it is not detecting a signal. Keyboard and mouse lights may or may not turn on. There are no beep codes or warning lights on the desktop.","1. Verify that the monitor is powered on and the display cable (HDMI, DisplayPort, or DVI) is securely connected to both the monitor and the NVIDIA GeForce RTX 4060 graphics card (not the motherboard’s video ports).
+2. Check that the monitor input source matches the cable type you are using (e.g., HDMI or DisplayPort).
+3. If using multiple video outputs on the graphics card, try connecting the cable to a different port on the GPU and see if the display appears.
+4. Test the monitor and cable with another device (such as a laptop) to ensure they are working.
+5. Power off the desktop, unplug the power cable, and hold the power button for 10 seconds to discharge residual power. Reconnect the power cable and try powering on again.
+6. If there is still no display, open the side panel (with the system powered off and unplugged), and make sure the graphics card is firmly seated in the PCIe slot and that its power connectors are secure.
+7. Remove and reseat the RAM modules to ensure good contact.
+8. Reconnect power and turn on the desktop. If there is still no display, try connecting the monitor to the motherboard’s video output. If you get a display this way, the graphics card may be faulty or incorrectly installed.
+9. If the issue persists, contact TechMart support for further assistance or possible hardware service."
+SwiftPoint MX Mouse Not Charging via USB-C,SKU150,"When connecting the SwiftPoint MX Wireless Mouse to a charger or computer using the USB-C cable, the battery LED does not light up, the mouse does not charge, and the device eventually powers off after battery depletion.","1. Confirm the USB-C cable is firmly connected to both the mouse and a known working USB port or charger.
+2. Check for visible dirt or debris in the mouse’s USB-C port and gently clean it if needed with compressed air or a dry brush.
+3. Try a different USB-C cable and/or charging port to rule out cable or power source issues.
+4. Inspect the mouse's battery LED indicator for any flickering or abnormal behavior when plugged in.
+5. If charging still fails, perform a soft reset by holding down the left, right, and DPI buttons simultaneously for 10 seconds, then reconnect the cable.
+6. If the mouse is still not charging, contact TechMart support for warranty service or battery replacement."
+No Display When Connected via USB-C,SKU312,"When connecting a laptop or device to the PixelFusion 32 QHD Monitor using a USB-C cable, the monitor displays 'No Signal' or remains black. The power LED is on, but there is no video or sound output. Charging via USB-C may still work.","1. Ensure your device supports video output over USB-C (DisplayPort Alternate Mode). Not all USB-C ports support video.
+2. Unplug and re-plug the USB-C cable at both ends. Use the cable provided with the monitor if available.
+3. Try a different USB-C cable rated for video/data, as some cables only support charging.
+4. Verify the monitor's input source is set to 'USB-C'. Use the monitor's input/source button to toggle between HDMI, DisplayPort, and USB-C.
+5. Restart both the monitor and your device.
+6. If using Windows, press Windows+P to cycle display modes, or check Display Settings to ensure the monitor is detected.
+7. Test the monitor with another USB-C device that supports video output.
+8. If the issue persists, connect via HDMI or DisplayPort to confirm the monitor's display functions.
+9. If no video via USB-C from any device, contact TechMart support for further assistance or possible hardware inspection."
+CoreStation X5 Powers On but No Display Output,SKU207,"When powering on the CoreStation X5 Desktop, the power LED and internal fans spin up, but no image appears on the monitor. The monitor remains black or displays 'No Signal.' The keyboard and mouse may light up, but there is no startup beep or BIOS screen.","1. Confirm the monitor is powered on and connected to the CoreStation X5's graphics card HDMI or DisplayPort output (not the motherboard's video ports).
+2. Check that the monitor input source matches the cable type (HDMI, DisplayPort).
+3. Ensure the monitor cable is fully inserted at both ends and try a different cable if possible.
+4. Disconnect all peripherals except the monitor, keyboard, and mouse.
+5. Power off the CoreStation X5 and unplug it from the wall. Wait 30 seconds, then reconnect and power it back on.
+6. Listen for any beep codes or observe if any error lights appear on the motherboard (if visible through the case window).
+7. If still no display, open the side panel and ensure the NVIDIA GeForce RTX 4060 graphics card is securely seated in its PCIe slot and that its power connector is firmly attached.
+8. Try connecting the monitor to a different output port on the graphics card.
+9. If available, test with a different monitor.
+10. If none of the above steps resolve the issue, contact TechMart Support for further assistance as the GPU or other hardware may require service."
+USB-C Connection Not Charging Laptop,SKU191,"When connecting a laptop to the PixelGlide 32Q OLED Monitor using a USB-C cable, the laptop display extends or mirrors as expected, but the laptop is not charging (battery icon shows 'not charging' or laptop eventually runs out of battery).","1. Confirm that your laptop supports charging via USB-C (Power Delivery, PD). Not all laptops with USB-C ports accept charging input.
+2. Ensure you are using the USB-C port on the monitor labeled for 65W PD (Power Delivery), and not a USB-A port.
+3. Check the USB-C cable. Use a cable rated for power delivery (at least 65W); some USB-C cables only support data and display, not charging.
+4. Unplug and replug the USB-C cable on both the monitor and the laptop. Listen for the charging chime or check the laptop's battery icon.
+5. If using a docking station or adapter, connect the laptop directly to the monitor with the USB-C cable to rule out intermediary device issues.
+6. Make sure the monitor is powered on and not in standby or sleep mode.
+7. Try a different USB-C device (such as another laptop or a phone that supports PD charging) to verify if the monitor's USB-C port is providing power.
+8. If the issue persists, update the laptop's BIOS/firmware and USB drivers from the manufacturer's support site.
+9. If none of the above steps resolve the issue, contact TechMart support for hardware diagnostics or service."
+Laptop Stand Fails to Hold Set Height or Collapses Under Load,SKU100,"The FlexiLift Pro Laptop Stand does not maintain the chosen height or angle, slowly collapses while in use, or suddenly lowers when a laptop is placed on it. Users may notice the stand's joints feel loose, or the locking mechanism does not seem to engage securely. The laptop may feel unstable or wobble during typing.","1. Remove your laptop from the FlexiLift Pro and place the stand on a flat surface.
+2. Inspect the main hinge and height adjustment arms for visible debris or obstructions that may prevent secure locking.
+3. Ensure the adjustment arms are fully extended to a valid height within the specified range (5–28 cm) and the angle is set between 15–45 degrees.
+4. Firmly press down on the locking mechanism until you hear or feel a 'click.' If there is no engagement, gently wiggle the arms and try locking again.
+5. Check for any loosened screws at the hinge or adjustment arms. If found, carefully tighten them using a Phillips screwdriver.
+6. Wipe the hinge and joints with a clean, dry cloth to remove dust or residue that may affect grip.
+7. Place your laptop (not exceeding 10 kg) back on the stand and verify if the stand holds steady at the set height and angle.
+8. If the issue persists, discontinue use and contact TechMart support for further assistance or warranty evaluation."
+Stand Height Adjustment Mechanism Stuck,SKU315,The FlexStand Pro cannot be raised or lowered smoothly. The height adjustment mechanism feels jammed or requires excessive force to move. The stand may be fixed at one height or angle and resists adjustment.,"1. Remove your laptop from the stand to prevent accidental drops or damage.
+2. Inspect both sides of the stand for any visible obstructions, such as debris, dust, or a misaligned part in the adjustment tracks.
+3. Gently try to adjust the height and angle with both hands, applying even pressure. Do not force the mechanism if it feels stuck.
+4. If the mechanism does not move, check for any screws or joints that may have loosened; tighten them gently with a suitable screwdriver if needed.
+5. Using a soft, dry cloth, wipe down the adjustment tracks and joints to remove any dust or particles that may be causing friction.
+6. If the stand remains stuck, apply a small amount of silicone-based lubricant to the joints and moving parts—avoid using oil-based products, as these may damage the aluminum finish.
+7. Allow the lubricant to settle for a few minutes, then attempt to adjust the height and angle again.
+8. If the problem persists, discontinue use to avoid further damage and contact TechMart support for further assistance or warranty evaluation."
+Printer Not Connecting to Wi-Fi Network,SKU282,"The PrintEase Pro 410 printer does not appear in the list of available devices when printing wirelessly. The Wi-Fi LED is blinking amber, and print jobs sent from computers or mobile devices remain in the queue. Printing via USB works, but wireless and mobile printing (AirPrint/Google Cloud Print) are unavailable.","1. Ensure your Wi-Fi router is powered on and broadcasting the correct network (2.4GHz/5GHz supported by printer).
+2. Check that the printer is within range of the Wi-Fi router and there are no major obstructions (walls, appliances).
+3. On the printer's control panel, navigate to Settings > Network > Wireless Setup Wizard and confirm the printer is connected to your intended Wi-Fi network.
+4. If not connected, select your Wi-Fi network from the list and re-enter your Wi-Fi password carefully. Wait for the printer to confirm connection (Wi-Fi LED should turn solid blue).
+5. Restart both your printer and Wi-Fi router, then wait 2-3 minutes for both devices to fully reboot.
+6. On your computer or mobile device, remove and re-add the PrintEase Pro 410 printer from your list of available printers.
+7. Try printing a test page wirelessly. If the issue persists, check for firmware updates for the printer via Settings > Device Update.
+8. If still unresolved, perform a network reset on the printer (Settings > Network > Reset Network Settings), then repeat steps 3-7.
+9. If none of the above steps work, contact TechMart support with details of your network configuration and error messages displayed."
+Laptop Riser Will Not Hold Set Height/Angle,SKU039,"After adjusting the FlexStand Pro to a desired height or angle, the platform slowly collapses or fails to stay in position when a laptop is placed on it. Users may notice the riser slipping down or becoming unstable even with light pressure.","1. Remove your laptop from the riser and ensure the platform is empty.
+2. Inspect the riser's adjustment joints and locking mechanism for visible debris, dust, or obstructions. Clean with a soft cloth if needed.
+3. Make sure the adjustment levers or knobs are fully tightened. Some models require a firm twist or snap to fully lock.
+4. Adjust the riser to a mid-range height (around 15 cm) and angle (about 20°), then securely lock the mechanism.
+5. Gently press down on the platform to test if it holds. If it slips, tighten the adjustment mechanism further.
+6. Place your laptop (within the 10 kg weight limit) back on the riser. Observe if the position holds under normal use.
+7. If the riser still collapses, check for signs of mechanical damage or excessive wear on the joints. If damage is found or the issue persists, discontinue use and contact TechMart support for warranty assistance."
+Laptop Stand Fails to Hold Set Height (Collapses Unexpectedly),SKU100,"The FlexiLift Pro Laptop Stand does not maintain the desired height or angle and collapses back to its lowest position when a laptop is placed on it. Users may notice difficulty in locking the stand at specific heights or the stand slipping during use, even with laptops under the 10 kg weight limit.","1. Remove your laptop from the FlexiLift Pro stand and place the stand on a flat, stable surface.
+2. Inspect the stand’s adjustment mechanism (the hinges and locking levers) for any visible debris, dust, or obstructions that may be preventing proper locking.
+3. If debris is present, gently clean the affected areas using a dry cloth or soft brush. Avoid using water or cleaning agents.
+4. Extend the stand to several different heights (e.g., 10 cm, 20 cm, 28 cm) and angles (e.g., 15°, 30°, 45°), ensuring you hear or feel the locking mechanism engage each time.
+5. With one hand stabilizing the base, gently apply downward pressure to the laptop platform to test if the stand holds firm at each setting.
+6. If the stand continues to collapse, check that the locking levers are clicking fully into place. If not, try re-seating the levers by moving them back and forth several times.
+7. If the problem persists after cleaning and re-seating, verify your laptop does not exceed the 10 kg maximum load.
+8. If the issue is unresolved, discontinue use and contact TechMart support for warranty evaluation, as there may be a defect with the locking mechanism."
+No Display When Using USB-C Connection,SKU263,"When connecting a laptop or device to the PixelEdge 32 QHD Monitor via USB-C, the monitor shows a 'No Signal' message, remains black, or does not display any image, even though the device appears to be charging via USB-C.","1. Ensure your laptop/device supports video output (DisplayPort Alt Mode) over USB-C. Not all USB-C ports support video.
+2. Use the USB-C cable provided with the monitor or a certified high-quality USB-C cable that supports video and data, not just charging.
+3. Disconnect and reconnect the USB-C cable on both ends. Make sure the connections are secure.
+4. On your laptop/device, check display settings to ensure it is set to output to an external display. (Windows: Windows Key + P; macOS: System Preferences > Displays)
+5. On the monitor, press the input/source button and select 'USB-C' as the input source. The monitor may not automatically switch to USB-C input.
+6. If possible, test the USB-C connection with another compatible device to rule out device-specific issues.
+7. If the issue persists, update your device's graphics drivers and firmware, then restart both the monitor and your device.
+8. If none of the above steps resolve the issue, try connecting via HDMI or DisplayPort to verify the monitor's functionality, and contact TechMart support with your findings."
+Keyboard Not Detected via 2.4GHz Wireless Dongle,SKU081,"When attempting to use the KeySync Pro Wirelessly with the 2.4GHz dongle, the keyboard does not type or respond. The keyboard's indicator LED flashes blue three times when powered on, and the dongle's LED (if present) does not light up. The keyboard works fine via Bluetooth and USB-C wired modes.","1. Ensure the 2.4GHz dongle is fully inserted into a working USB port on your computer. Try a different port if unsure.
+2. Set the keyboard's connectivity switch to the 2.4GHz position (usually marked with a '2.4G' symbol).
+3. Turn the keyboard off and back on using the power switch. Wait 5 seconds for the connection to establish.
+4. If still unresponsive, unplug the dongle and reinsert it. Wait for your computer to recognize the new USB device.
+5. Try the dongle on a different computer to rule out USB port issues.
+6. If the keyboard still doesn't connect, perform a wireless reset: hold down the 'Esc' key and 'Q' key together for 5 seconds until the indicator LED flashes rapidly. Then turn the keyboard off and on again.
+7. If the issue persists, ensure the keyboard's battery is sufficiently charged by connecting it via USB-C cable and charging for at least 30 minutes. Retry steps 2-4.
+8. If none of these steps resolve the issue, contact TechMart support for further assistance or to request a replacement dongle."
+NeuraBook Air 13 Battery Not Charging When Plugged In,SKU306,"When the charger is connected to the NeuraBook Air 13, the battery icon shows 'Plugged in, not charging' or does not indicate charging. The device only runs on battery power and may eventually shut down when the battery depletes. The charging LED (if present) may not light up.","1. Ensure the charger is connected to one of the Thunderbolt 4 USB-C ports, not the USB-A port, as only USB-C ports support charging.
+2. Inspect the charging cable and adapter for visible damage or bent pins. Try using another compatible USB-C charger if available.
+3. Remove any adapters, hubs, or dongles from the charging port and connect the charger directly to the laptop.
+4. Restart the NeuraBook Air 13 and check if charging resumes.
+5. Inspect the USB-C port for dust or debris. Gently clean it with a can of compressed air if necessary.
+6. Check for battery or power notifications in Windows: Go to Start > Settings > System > Power & battery. Look for any error messages.
+7. Update system drivers and BIOS: Go to Start > Settings > Windows Update and install all updates. Visit the NeuraBook support page for the latest BIOS/firmware updates.
+8. If the battery still does not charge, perform a battery reset: Shut down the laptop, unplug the charger, then press and hold the power button for 30 seconds. Reconnect the charger and power on.
+9. If the issue persists after these steps, contact TechMart Support for further assistance or possible hardware servicing."
+SwiftPoint MX Mouse Not Charging,SKU150,"When connected to a charger, the mouse’s battery LED does not light up, the mouse does not power on wirelessly after charging, and battery status shows low or empty in the SwiftPoint software.","1. Ensure you are using the original USB-C charging cable and connect it securely to both the mouse and a working USB port or charger.
+2. Check the USB port or charger by plugging in another device to verify it supplies power.
+3. Inspect the USB-C port on the mouse for dust or debris; clean gently with a dry cotton swab if needed.
+4. Leave the mouse connected to the charger for at least 30 minutes to ensure the battery is not fully depleted.
+5. While charging, look for the battery LED indicator—if it remains off, try a different cable and port.
+6. If the LED still does not light up and the mouse does not power on after charging, perform a reset by holding down the left, right, and DPI buttons simultaneously for 5 seconds while connected to power.
+7. If the issue persists, contact TechMart support for warranty or service options."
+5GHz WiFi Network Not Visible to Devices,SKU259,"Users are unable to see or connect to the 5GHz WiFi network (SSID) on their devices, while the 2.4GHz network is visible and operational. Some devices may intermittently connect or experience frequent drops from the 5GHz band.","1. Ensure your device supports 5GHz WiFi. Many older devices only support 2.4GHz.
+2. Place your device closer to the router; 5GHz has shorter range than 2.4GHz and may not penetrate walls as effectively.
+3. Log in to the NetStream AX6000 admin interface:
+   - Connect to the router via Ethernet or 2.4GHz WiFi.
+   - Enter the router's IP address (default: 192.168.1.1) in your web browser.
+   - Log in with your admin credentials.
+4. Navigate to Wireless Settings > 5GHz Band.
+5. Confirm the 5GHz wireless network is enabled and the SSID is set to 'broadcast' (not hidden).
+6. Check that the 5GHz channel is set to 'Auto' or a channel supported in your region (preferably channels 36, 40, 44, or 48).
+7. Save settings and reboot the router.
+8. On your device, forget the existing WiFi network (if present) and scan for available networks again.
+9. If the issue persists, update the router firmware via the admin interface (Settings > Firmware Update).
+10. If none of these steps resolve the issue, perform a factory reset on the router (hold the reset button for 10 seconds), then reconfigure your settings."
+5GHz WiFi Bands Not Visible on Devices,SKU278,"Your devices cannot detect or connect to either of the 5GHz WiFi networks provided by the NetStream AX6000 router, even though the 2.4GHz network is visible and working. Some devices may intermittently connect but experience drops or low speeds on 5GHz.","1. Ensure your device supports 5GHz WiFi (not all older devices do).
+2. Verify that the router is powered on and the WiFi LED indicators for all bands are lit.
+3. Open a browser on a device connected to the router and log in to the router admin interface (usually http://192.168.1.1).
+4. Navigate to the Wireless Settings section and confirm that both 5GHz bands are enabled and broadcasting (SSID not hidden).
+5. Check that SSIDs for the 5GHz bands are set to unique names and not identical to the 2.4GHz SSID.
+6. Ensure 'Smart Connect' is disabled for troubleshooting (this can combine SSIDs and cause confusion on some devices).
+7. Change the 5GHz channel to a lower number (e.g., channels 36-48) as some devices do not support higher channels (above 149).
+8. Save settings and reboot the router.
+9. On your device, forget the network and scan again for available WiFi networks.
+10. If the issue persists, reset the router to factory defaults using the reset button (hold for 10 seconds), reconfigure WiFi, and test again.
+11. If 5GHz bands are still not visible, contact TechMart support for hardware evaluation."
+Keyboard Not Responding in Wireless Modes,SKU045,"When switching the KeyPro Wireless 75 to Bluetooth or 2.4GHz mode, none of the keys register on your computer. The keyboard’s indicator LED may flash blue (Bluetooth) or green (2.4GHz), but input does not appear, and the device may not show up in your Bluetooth device list.","1. Ensure the keyboard’s battery is charged. Connect via USB-C and check if the indicator LED turns white (charging). Wait at least 30 minutes before retrying wireless modes.
+2. Check that the keyboard’s wireless mode switch is set correctly (Bluetooth: press Fn + 1/2/3, 2.4GHz: insert dongle and press Fn + 4).
+3. For Bluetooth: On your computer, remove the 'KeyPro Wireless 75' from paired devices, then re-pair by holding Fn + 1 for 3 seconds until the blue LED blinks rapidly.
+4. For 2.4GHz: Ensure the USB dongle is fully seated in the computer. Test a different USB port if possible. Press Fn + 4 to reconnect; the green LED should blink, then stay solid when connected.
+5. Try connecting via USB-C to confirm the keyboard functions in wired mode. If keys work wired but not wireless, proceed to the next steps.
+6. Check for wireless interference (move keyboard closer, remove nearby devices operating on 2.4GHz or Bluetooth, and avoid metal surfaces).
+7. Reset the keyboard by holding Fn + R for 5 seconds. Re-pair after reset.
+8. If none of the above resolve the issue, test the keyboard with another computer/device to rule out hardware or compatibility issues.
+9. If the problem persists, contact TechMart support for further assistance."
+5GHz Wi-Fi Network Not Visible to Devices,SKU037,"Users are unable to see or connect to the router's 5GHz Wi-Fi network from their devices, while the 2.4GHz network is visible and functioning. Some devices may intermittently detect the 5GHz SSID but fail to connect. Wired LAN connections and internet via Ethernet function normally.","1. Ensure that your device supports 5GHz Wi-Fi (check device specifications).
+2. Move your device closer to the router, as 5GHz signals have shorter range compared to 2.4GHz.
+3. Log in to the router's web interface (usually http://192.168.1.1) using your admin credentials.
+4. Navigate to the Wireless Settings section and confirm that the 5GHz band is enabled and broadcasting an SSID (network name).
+5. Change the 5GHz channel to a different value (e.g., 36, 40, or 44) in case of local interference or regional restrictions.
+6. Save settings and reboot the router.
+7. On your device, forget the 5GHz network (if previously saved), then rescan for available networks.
+8. If the issue persists, check for firmware updates in the router's admin interface and apply any available updates.
+9. Perform a factory reset if none of the above steps resolve the issue (note: this will erase all custom settings)."
+EchoPulse Smart Speaker Not Connecting to Wi-Fi,SKU079,"The speaker does not respond to voice commands that require internet, streaming music fails, and the Wi-Fi status LED blinks amber. Attempts to connect via the app result in a 'Connection Failed' error.","1. Ensure your Wi-Fi network is operational by checking if other devices can connect to the internet.
+2. Move the EchoPulse Smart Speaker closer to your Wi-Fi router to minimize signal interference.
+3. Restart the speaker by holding the power button for 5 seconds, then turning it back on.
+4. On your smartphone, open the EchoPulse app, navigate to Device Settings > Wi-Fi Settings, and select your network. Re-enter your Wi-Fi password if prompted.
+5. If the issue persists, restart your Wi-Fi router and wait two minutes before trying to reconnect.
+6. Make sure your router is broadcasting on a 2.4GHz or 5GHz band (Wi-Fi 5 supported) and that MAC address filtering is not blocking the speaker.
+7. Perform a factory reset by holding the volume down and microphone mute buttons simultaneously for 10 seconds until the LED flashes white. Set up the speaker again via the app.
+8. If the speaker still will not connect, contact TechMart support with your device serial number for further assistance."
+ZenithBook Air 15 Not Charging When Plugged In via USB-C,SKU053,"When connecting the ZenithBook Air 15 to the power adapter via either Thunderbolt 4 (USB-C) port, the battery icon shows 'Plugged in, not charging' or no charging icon at all. The laptop may only run on battery power, even though the adapter is connected. The charging LED may remain off.","1. Ensure you are using the original ZenithBook 65W USB-C power adapter and cable supplied with your laptop. 2. Try plugging the adapter into the other Thunderbolt 4 (USB-C) port to rule out a port-specific issue. 3. Inspect both ends of the USB-C cable and both USB-C ports for dust, debris, or visible damage. Clean carefully if needed. 4. Check if the charging LED next to the USB-C port lights up when the adapter is connected. If not, try a different power outlet. 5. Restart the laptop and check if charging resumes. 6. Update the BIOS and power management drivers: go to Settings > Windows Update and install any available updates, then restart. 7. If possible, test with a compatible USB-C charger (65W or greater, USB Power Delivery compliant). If the laptop charges, your original adapter or cable may be faulty. 8. If none of the above steps resolve the issue, contact TechMart Support for further diagnostics or repair."
+PixelStream X5 5G Smartphone Battery Drains Rapidly,SKU171,"Users notice that the battery percentage drops quickly, even during light usage. The device feels warm to the touch, and the ""Battery usage"" section in settings may show high usage by certain apps or by the ""Android System."" The phone may not last a full day on a single charge, despite normal usage patterns.","1. Restart the device to close any background processes that may be consuming excess power.
+2. Go to Settings > Battery > Battery usage to identify apps or services using significant battery.
+3. If a specific app is using excessive battery, update it via the Play Store or uninstall and reinstall it.
+4. Check for system updates in Settings > System > System update and install any available updates.
+5. Reduce screen brightness and set the display refresh rate to 60Hz in Settings > Display > Refresh rate.
+6. Disable 5G if not needed by going to Settings > Network & Internet > Mobile network > Preferred network type, and selecting 4G/LTE.
+7. Turn off background app activity for non-essential apps: Settings > Apps > [App name] > Battery > Restrict background activity.
+8. If the issue persists, perform a cache partition wipe: Power off the phone, hold Volume Up + Power, select 'Wipe cache partition' using the volume keys, and confirm with the power button.
+9. As a last resort, back up your data and perform a factory reset: Settings > System > Reset options > Erase all data (factory reset)."
+Edge Stylus Pro Not Responding on Screen,SKU029,"When using the Edge Stylus Pro with the TabEdge S9, the stylus does not produce any response on the display. Touch input with fingers works normally. The stylus LED indicator is off or blinks rapidly, and the tablet does not register handwriting or drawing.","1. Ensure that the Edge Stylus Pro is charged. Connect it to a USB-C charger for at least 15 minutes, then try again.
+2. Remove any case or cover that might be interfering with stylus contact on the screen.
+3. Restart your TabEdge S9 by holding down the power button and selecting 'Restart.'
+4. Go to Settings > Accessories > Stylus and confirm that the Edge Stylus Pro is listed as 'Connected.' If not, tap 'Pair New Stylus' and follow the on-screen instructions.
+5. Test the stylus on all areas of the screen. If only parts of the screen are unresponsive, clean the display with a microfiber cloth.
+6. If the stylus still does not work, try it on another compatible device, if available, to rule out stylus malfunction.
+7. If the problem persists, reset stylus settings by going to Settings > Accessories > Stylus > Reset Stylus Preferences.
+8. If none of the above steps resolve the issue, contact TechMart support for further assistance or possible replacement."
+Mouse Not Charging or Holding Charge,SKU135,"The SwiftPoint MX Pro Wireless Mouse does not charge when connected to a USB cable. The battery level indicator stays low or the mouse runs out of power quickly despite recent charging. The mouse may not power on at all, or powers off after a few minutes of use.","1. Confirm that you are using the original USB-C charging cable and adapter provided with the mouse (or a certified replacement).
+2. Inspect the USB-C charging port on the mouse and the cable for any dust, debris, or visible damage. Clean gently with a dry, soft brush if needed.
+3. Plug the cable securely into both the mouse and a working USB port (try both your computer and a wall USB charger to rule out port issues).
+4. Check for a charging indicator light on the mouse. If no light appears, try a different USB-C cable and charger to see if the issue persists.
+5. Leave the mouse connected and charging for at least 30 minutes. After this time, try turning the mouse on.
+6. If the mouse turns on, check the battery status in the SwiftPoint Control Panel software (if installed) to verify the charge level.
+7. If the mouse still will not charge or hold a charge, perform a reset: disconnect the mouse from all devices, wait 10 seconds, then hold the left, right, and scroll wheel buttons simultaneously for 5 seconds.
+8. If the issue is unresolved after these steps, the battery may be faulty. Contact TechMart Support for warranty service or battery replacement options."
+Smart Speaker Not Responding to Voice Commands,SKU248,"The speaker does not respond when you say 'Alexa' or 'Hey Google'. No lights or sound are triggered after saying the wake word. Music playback and volume controls via physical buttons work, but voice assistant features are unavailable.","1. Check that the microphone mute button on the PulseStream Smart Speaker is not engaged (the LED indicator should not be red or orange).
+2. Ensure the speaker is connected to Wi-Fi by checking the Wi-Fi status LED. If the LED is off or blinking, reconnect the speaker to your Wi-Fi network using the companion app.
+3. Restart the smart speaker by holding down the power button for 5 seconds, then turning it back on.
+4. Make sure your mobile device and the speaker have the latest firmware and app updates installed.
+5. Try retraining the voice assistant by following the setup instructions in the app for Alexa or Google Assistant.
+6. If the speaker still does not respond, perform a factory reset by pressing and holding both the volume up and down buttons for 10 seconds until the LED blinks rapidly.
+7. Set up the speaker again using the companion app and test voice commands.
+8. If the issue persists, contact TechMart support for further assistance."
+Laptop Does Not Charge When Plugged Into USB-C Port,SKU050,"When connecting the AC adapter to either Thunderbolt 4 USB-C port, the ZenithBook 15 Evo does not show the charging icon in Windows, the battery percentage does not increase, and the power LED next to the charging port does not light up. The laptop runs on battery power only, even when the power adapter is connected.","1. Ensure that the AC adapter is securely plugged into a working wall outlet and the USB-C cable is firmly connected to both the adapter and the laptop.
+2. Try charging the laptop using the other Thunderbolt 4 USB-C port.
+3. Inspect the USB-C cable and ports for any visible signs of damage, debris, or bent pins. Clean carefully if necessary.
+4. Test the AC adapter and USB-C cable with another compatible device, if available, to rule out a faulty charger.
+5. Power off the laptop completely, then hold the power button for 10 seconds to perform a hard reset. Reconnect the charger and power on.
+6. Check for battery or charging-related errors in Windows: Right-click the battery icon > 'Power & sleep settings' > 'Battery health report'.
+7. Update the BIOS and power management drivers to the latest version from the ZenithBook support page.
+8. If the laptop still does not charge, contact TechMart support for further assistance or hardware inspection."
+FusionOne X5 5G Won't Connect to Mobile Data,SKU319,The phone displays 'No mobile data' or 'No internet connection' despite showing signal bars. The 5G/4G/LTE icon may be missing from the status bar. Apps and websites do not load unless connected to Wi-Fi.,"1. Verify Airplane mode is OFF: Swipe down from the top of the screen and ensure the airplane icon is not highlighted.
+2. Toggle Mobile Data: Go to Settings > Network & Internet > Mobile network, and ensure 'Mobile data' is enabled. Toggle it off and back on.
+3. Check SIM Card: Power off the phone, remove the SIM card tray, reseat the SIM card carefully, and power the phone back on.
+4. Confirm Carrier Settings: Go to Settings > About phone > SIM status, and verify that carrier is detected. If not, try another valid SIM card to check for SIM/card slot issues.
+5. Update APN settings: Go to Settings > Network & Internet > Mobile network > Access Point Names. Select your carrier's APN or tap 'Reset to default'.
+6. Restart Device: Hold the power button and select Restart.
+7. Test in Safe Mode: Hold the power button, then tap and hold 'Power off' until 'Reboot to safe mode' appears. Confirm and test mobile data in safe mode.
+8. Contact Carrier: If mobile data still does not work, contact your carrier to check for outages or account issues.
+9. Factory Reset (last resort): Backup your data, then go to Settings > System > Reset options > Erase all data (factory reset)."
+Devices Cannot Connect to 5GHz Wi-Fi Band,SKU037,"User devices are unable to find or connect to the 5GHz Wi-Fi network. The 2.4GHz Wi-Fi network is visible and working, but the 5GHz SSID does not appear in available networks, or connection attempts to the 5GHz band fail. Wired LAN connections function normally.","1. Confirm that your device supports 5GHz Wi-Fi. Older devices may only support 2.4GHz.
+2. Ensure the router is powered on and all four external antennas are firmly attached and positioned upright.
+3. Log in to the NetStream AX6000 router's web interface by entering the default gateway (usually http://192.168.1.1) in your browser and signing in with your credentials.
+4. Navigate to Wireless Settings > 5GHz Band. Verify that the 5GHz wireless network is enabled and has a unique SSID (network name).
+5. Check the 'Hide SSID' setting for the 5GHz band. If enabled, disable this option to make the network visible.
+6. Change the 5GHz channel to a lower channel number (such as 36 or 40) and apply the settings. Some devices cannot detect higher channels.
+7. Save and reboot the router.
+8. On your device, turn Wi-Fi off and back on, then rescan for networks.
+9. If the 5GHz SSID still does not appear, try connecting from another device to rule out device compatibility issues.
+10. If the issue persists, perform a factory reset of the router by holding the reset button for 10 seconds, then reconfigure your Wi-Fi settings."
+Controller Not Connecting Wirelessly to Console or PC,SKU071,PulseEdge Elite Wireless Controller does not respond when powered on. The status LED blinks rapidly but does not stay solid. The controller is not detected by the console or PC via 2.4GHz dongle or Bluetooth. Wired connection via USB-C works normally.,"1. Ensure the controller is fully charged by connecting it to a USB-C cable for at least 30 minutes. 
+2. Verify that the 2.4GHz wireless dongle (if using) is securely plugged into your console or PC. Try a different USB port if available. 
+3. If connecting via Bluetooth, ensure Bluetooth is enabled on your device and remove any previous pairing of the controller from your Bluetooth settings. 
+4. On the controller, hold down the 'Pair' button for 3 seconds until the LED starts rapidly blinking. 
+5. For 2.4GHz: Press the small pairing button on the dongle (if available) until it starts blinking, then wait for the LED on the controller to turn solid, indicating connection. 
+6. For Bluetooth: Scan for new devices on your console/PC and select 'PulseEdge Elite' from the list. Confirm any pairing prompts. 
+7. If the controller still does not connect wirelessly, try resetting it by inserting a paperclip into the small reset hole on the back for 5 seconds, then repeat steps 4-6. 
+8. If the issue persists, test the controller on another device to rule out hardware failure. If it fails to connect wirelessly to any device, contact TechMart support for further assistance."
+CoreStation X5 Desktop Does Not Power On,SKU294,"When pressing the power button, the CoreStation X5 Desktop does not turn on. There are no lights or fan noises. The monitor remains black and there are no signs of activity from the computer.","1. Verify that the power cable is securely connected to both the rear of the desktop and a working wall outlet or power strip. 
+2. Check that the power outlet or power strip is functioning by plugging in another device (e.g., a lamp or phone charger).
+3. Ensure the power switch on the back of the power supply (PSU) is set to the 'I' (on) position.
+4. Inspect the power cable and connectors for visible damage. Replace the cable if necessary.
+5. If the desktop is connected to a surge protector or UPS, try plugging it directly into a wall outlet instead.
+6. Look through the side panel (if transparent) or remove the panel to check for any loose or disconnected cables inside, especially the main motherboard and CPU power connectors from the PSU.
+7. Press and hold the power button for 10 seconds to discharge any residual power, then try turning the desktop on again.
+8. If the PC still does not power on, observe if any motherboard LEDs light up temporarily when plugging in the power cable. If not, the PSU or motherboard may be faulty.
+9. If possible, test with a different compatible power supply. If the issue persists, contact TechMart support for further assistance or arrange a repair."
+DataForge NVMe SSD Not Detected in BIOS or Windows,SKU155,"The DataForge NVMe SSD 4TB does not appear in the motherboard BIOS/UEFI storage device list or in Windows Disk Management. The system may boot normally if another drive is present, but the DataForge SSD is missing. New installations of Windows may also fail to detect the drive as a target disk.","1. Power off your computer and unplug it from the wall outlet.
+2. Open your computer case and ensure the DataForge SSD is firmly seated in the M.2 slot. Remove and re-insert if necessary.
+3. Check for any visible damage on the SSD connector or the motherboard M.2 slot.
+4. Make sure any required M.2 standoff and screw are properly securing the SSD.
+5. Power on your PC and enter the BIOS/UEFI settings (usually by pressing DEL, F2, or ESC during boot).
+6. In BIOS, verify that the M.2 slot is enabled and set to PCIe/NVMe mode, not SATA.
+7. If the SSD is not detected, try installing it in a different compatible M.2 slot, if available.
+8. Boot into Windows. Open Device Manager and check under 'Disk Drives' for the SSD. If not listed, open Disk Management and look for uninitialized drives.
+9. Update your motherboard BIOS/UEFI firmware to the latest version from the manufacturer's website.
+10. Update NVMe controller drivers in Windows, either via the motherboard manufacturer's website or Windows Update.
+11. If the SSD is still not detected, test it in another compatible system to determine if the issue is with the SSD or the original computer.
+12. If the SSD is not recognized in any system, contact TechMart support for further assistance or warranty service."
+Cannot Print via Wi-Fi (Wireless Printing Fails),SKU066,"When attempting to print wirelessly, the PrintEase Pro 4100 does not appear in the print dialog on your device, jobs remain in the print queue without printing, or the printer shows as 'Offline' in the printer list. Wired printing (USB/Ethernet) works correctly. The Wi-Fi indicator on the printer may be blinking or off.","1. Ensure the printer is powered on and the Wi-Fi indicator light is solid (not blinking or off). If blinking/off, press the Wi-Fi button on the printer to re-enable wireless mode.
+2. Confirm that your printer and computer/mobile device are connected to the same Wi-Fi network (SSID). On the printer, print a network configuration page (refer to the manual) to check its connection.
+3. Restart your printer and your Wi-Fi router. Wait 2 minutes for both to fully reboot.
+4. On your computer or mobile device, remove the PrintEase Pro 4100 from the list of printers, then add it again. For Windows, go to 'Printers & Scanners' > 'Add a printer'. For Mac, use 'System Preferences' > 'Printers & Scanners'.
+5. If using AirPrint or Google Cloud Print, make sure these services are enabled in the printer's settings menu.
+6. Disable any VPN or firewall on your computer that might block local network devices.
+7. If the issue persists, reset the printer’s network settings (hold the Wi-Fi button for 10 seconds) and reconnect it to your Wi-Fi network following the setup instructions.
+8. Try printing a test page wirelessly. If unsuccessful, contact TechMart support for further assistance."
+Active Noise Cancellation (ANC) Not Working,SKU008,"When ANC is turned on, surrounding noises (such as traffic or chatter) are still clearly audible. The headphones do not reduce background sounds, and the ANC indicator LED may not light up as expected.","1. Ensure the headphones are fully charged. Low battery can affect ANC performance.
+2. Confirm that ANC is activated by pressing the ANC button. The ANC indicator LED should light up (usually green or blue). If it does not, continue to the next step.
+3. Power cycle your headphones: Turn them off, wait 10 seconds, then turn them back on.
+4. Check for physical obstructions: Make sure the earcups are properly positioned over your ears and there is no debris blocking the microphones (usually small holes on the earcups).
+5. Try using ANC in a quiet environment to verify if there is any change in sound when toggling ANC on and off. You should hear a faint hiss or pressure change when ANC is engaged.
+6. If ANC still does not function, reset the headphones by holding the power and ANC buttons together for 10 seconds (refer to the user manual for model-specific reset instructions).
+7. If the issue persists, update the headphone firmware using the SoundWave app (if available) and retest ANC.
+8. For continued issues, contact TechMart support for further assistance or warranty options."
+No 5G Network Connectivity,SKU319,"The FusionOne X5 5G smartphone does not connect to 5G networks even when in a 5G coverage area. Users may notice the device stays on 4G/LTE, or shows 'No Service'. Mobile data may be slow or unavailable, and the 5G icon never appears in the status bar.","1. Ensure your carrier supports 5G in your area and that your plan includes 5G service.
+2. Swipe down to open Quick Settings, and ensure 'Airplane Mode' is OFF.
+3. Go to Settings > Network & Internet > Mobile Network. Make sure 'Preferred network type' is set to '5G/4G/3G/2G (Auto)'.
+4. Restart your phone by holding the power button and tapping 'Restart.'
+5. Remove and reinsert your SIM card. Use the SIM ejector tool to remove the tray, wait 10 seconds, and reinsert.
+6. Try your SIM in another 5G-capable device to verify network and SIM functionality.
+7. If available, update your phone to the latest software: Settings > System > Software update.
+8. If the issue persists, contact your carrier to verify your SIM and plan, or contact TechMart Support for further assistance."
+Active Noise Cancelling (ANC) Not Working,SKU008,"When ANC is enabled, there is little or no reduction in background noise. The headphones may sound the same whether ANC is on or off. The ANC indicator light does not illuminate or blinks red.","1. Ensure the headphones are powered on and sufficiently charged (battery level above 10%).
+2. Toggle the ANC switch/button to OFF, wait 5 seconds, then turn it back ON.
+3. Check that the ANC indicator light turns solid green when enabled. If it blinks red or remains off, continue to next step.
+4. Disconnect the headphones from Bluetooth and remove any connected audio cable. Reconnect via Bluetooth only and try ANC again.
+5. Restart the headphones by powering them off for 10 seconds, then power back on.
+6. Try a different environment with constant background noise (e.g., fan or air conditioner) to test if ANC makes a difference.
+7. If ANC still does not activate or the indicator light remains off, connect the headphones to a charger and allow them to charge for 30 minutes. Test ANC again while plugged in.
+8. If the issue persists, reset the headphones to factory settings (refer to the user manual for reset instructions).
+9. If none of these steps restore ANC function, contact TechMart support for further assistance or warranty service."
+Keyboard Not Detected Over 2.4 GHz Wireless Connection,SKU012,"When attempting to use the KeyMaster RGB Mechanical Keyboard in 2.4 GHz wireless mode, the keyboard does not respond to key presses. The RGB lighting may turn on, but the keyboard is not detected by the computer. The 2.4 GHz USB dongle’s LED may blink or remain off.","1. Ensure the keyboard's battery is sufficiently charged. If necessary, connect the keyboard via USB-C cable to charge for at least 30 minutes.
+2. Insert the 2.4 GHz USB dongle into a USB port directly on your computer (avoid using USB hubs or extension cables).
+3. On the keyboard, switch to 2.4 GHz mode by moving the connectivity switch to the corresponding position (refer to manual if unsure).
+4. Wait up to 10 seconds for the connection. If the keyboard is still unresponsive, try a different USB port.
+5. If still not working, re-pair the keyboard and dongle:
+   a. Unplug the dongle from your computer.
+   b. Hold down the 'Fn' + 'R' keys on the keyboard for 3 seconds to enter pairing mode (the RGB light should pulse).
+   c. Insert the dongle back into the USB port.
+   d. Wait for the RGB pulse to stop, indicating successful pairing.
+6. Test the keyboard in a different computer to rule out device-specific issues.
+7. If the problem persists, reset the keyboard by holding 'Fn' + 'Esc' for 5 seconds, then repeat steps 3-5.
+8. If none of the above steps resolve the issue, contact TechMart Support for further assistance."
+Left Earbud Not Producing Sound,SKU291,"When using the EchoPulse TWS Earbuds, the left earbud does not emit any sound, while the right earbud works normally. The left earbud may appear powered on (LED indicator lit), but no audio is heard during music playback or calls.","1. Remove both earbuds from the charging case and ensure they are both powered on.
+2. Place both earbuds back into the charging case and wait for at least 10 seconds to reset their connection.
+3. Take the earbuds out again and confirm both LEDs are flashing (indicating pairing mode).
+4. On your device, remove 'EchoPulse TWS' from the Bluetooth list and re-pair by selecting it again.
+5. If the issue persists, try using the earbuds with a different device to rule out device-specific problems.
+6. Clean the charging contacts on the left earbud and inside the case using a dry cloth or cotton swab.
+7. If the left earbud still does not produce sound, perform a factory reset: With both earbuds in the case, press and hold the touch sensors on both earbuds for 10 seconds until the LEDs flash rapidly.
+8. Reconnect to your Bluetooth device and test audio in both earbuds."
+Laptop Does Not Charge When Plugged Into Thunderbolt 4 Port,SKU230,"When connecting the AeroFlex 15 Evo Laptop's charger to either Thunderbolt 4 (USB-C) port, the battery icon does not indicate charging. The laptop may display 'Plugged in, not charging' or no charging status at all. The LED indicator near the charging port does not light up. The laptop continues to run on battery power and may eventually power off.","1. Ensure you are using the original AeroFlex 15 Evo charger and USB-C cable that came with the laptop.
+2. Check that the power outlet is working by plugging in another device or trying a different outlet.
+3. Inspect the USB-C charging cable and adapter for any visible damage or bent connectors.
+4. Try plugging the charger into both Thunderbolt 4 ports (left and right sides of the laptop) to rule out a port-specific issue.
+5. Remove any USB or external devices from the laptop and attempt charging again.
+6. Hold the power button for 10 seconds to perform a hard reset, then reconnect the charger.
+7. If the laptop powers on, boot into Windows and check the battery icon. If it still does not charge, open Device Manager > Batteries > right-click 'Microsoft ACPI-Compliant Control Method Battery' > select 'Uninstall device', then restart the laptop (Windows will reinstall the driver automatically).
+8. If charging still fails, check for BIOS or firmware updates on the TechMart support website and install any available updates.
+9. If none of the above steps resolve the issue, contact TechMart Support for further assistance or battery/charging port inspection."
+Pixelon Edge X5 Screen Flickering at 120Hz Refresh Rate,SKU298,"When the display refresh rate is set to 120Hz, users notice intermittent flickering or horizontal lines on the screen, especially when viewing dark or grey backgrounds. The issue does not occur at lower refresh rates.","1. Go to Settings > Display > Refresh Rate and switch from 120Hz to 60Hz. Observe if the flickering stops.
+2. If the issue is resolved at 60Hz, ensure your device has the latest software by navigating to Settings > System > Software Update and installing any available updates.
+3. Restart your phone after updating and set the refresh rate back to 120Hz to test.
+4. If flickering persists, disable 'Adaptive Brightness' in Settings > Display > Adaptive Brightness, as fluctuating brightness can exacerbate flickering.
+5. Remove any screen protectors or cases that may be interfering with the display.
+6. If the problem continues, back up your data and perform a factory reset via Settings > System > Reset > Factory data reset.
+7. If none of these steps resolve the issue, contact TechMart support for further assistance or to arrange a device inspection."
+No Signal Detected on DisplayPort Input,SKU312,"When connecting a PC or laptop via the DisplayPort 1.4 input, the PixelFusion 32 QHD Monitor displays a 'No Signal' message on screen. The power LED remains on, and the monitor works when using HDMI or USB-C, but not with DisplayPort.","1. Ensure the PC or laptop is powered on and not in sleep mode.
+2. Confirm that the DisplayPort cable is securely connected to both the monitor and the graphics card.
+3. Try a different DisplayPort cable to rule out a faulty cable.
+4. Use the monitor's input/source button to manually select 'DisplayPort' as the input source.
+5. Test the DisplayPort connection with a different device (if available) to check if the issue is with the source device.
+6. Update your graphics card drivers to the latest version from the manufacturer's website.
+7. Power cycle both the monitor and PC: turn both off, unplug from power for 30 seconds, then reconnect and power on.
+8. If using any adapters or docking stations, connect the DisplayPort cable directly to the graphics card.
+9. If the problem persists, perform a monitor factory reset from the on-screen display (OSD) settings menu.
+10. Contact TechMart support if the issue remains unresolved after these steps."
+Laptop Stand Fails to Lock at Desired Height or Angle,SKU152,"When adjusting the FlexStand Pro, the stand collapses or fails to hold the set height or angle. The laptop may slide down, or the hinge mechanism feels loose and does not click or hold in place as expected.","1. Remove your laptop from the stand to prevent accidental drops during troubleshooting.
+2. Inspect the hinge area for any visible debris, dust, or obstructions that might prevent proper locking.
+3. Wipe the hinge and adjustment mechanism gently with a dry cloth. Avoid using any liquids.
+4. Fully collapse the stand, then slowly extend it to your desired height and angle, listening for a click or feeling the hinge engage.
+5. If the stand still fails to lock, check that you are not attempting to exceed the maximum height (28 cm) or angle (45 degrees) as specified.
+6. Ensure the laptop being used does not exceed the weight limit of 8 kg.
+7. If the locking mechanism remains loose, check for any missing or visibly damaged fasteners. Do not attempt to repair or tighten internal screws yourself.
+8. If the issue persists, discontinue use for safety and contact TechMart support for warranty evaluation or replacement."
+Laptop Stand Fails to Hold Position (Slips Down Under Weight),SKU074,"When placing a laptop on the FlexMount Pro Adjustable Laptop Stand, the stand gradually lowers or collapses instead of holding the set height and angle. Users notice the laptop sliding downwards, especially when adjusting to higher positions or steeper angles. No visible cracks or broken parts.","1. Remove your laptop from the stand and check if the adjustment joints are visibly loose or move freely without resistance.
+2. Inspect the locking mechanism (knobs or levers at the joints) to ensure they are fully tightened. Turn each knob/lever clockwise to secure; there should be firm resistance when set.
+3. Wipe the joints and contact surfaces with a dry cloth to remove any dust or debris that could affect grip.
+4. Re-adjust the stand to the desired height and angle (within 5-28 cm height and 15-45° angle), then firmly tighten all adjustment points.
+5. Place the laptop (not exceeding 10 kg) back on the stand. Observe if the stand maintains position for several minutes.
+6. If slipping persists, repeat tightening. If the issue continues, check for signs of wear or damage (e.g., stripped threads or cracked plastic) and contact TechMart support for replacement parts or further assistance."
+Keyboard not connecting via 2.4GHz wireless mode,SKU182,"The KeyStream Wireless 75 does not respond when switched to 2.4GHz mode. Key presses have no effect, and the keyboard's indicator light blinks blue instead of solid green. The included USB receiver is plugged in, but the keyboard is not detected by the computer.","1. Ensure the USB receiver is firmly plugged into a working USB port on your computer. Try a different port if necessary.
+2. Slide the keyboard's mode switch to the 2.4GHz wireless position. Wait 3 seconds for the indicator light to change.
+3. If the indicator continues to blink blue, press and hold the Fn + 4 keys for 3 seconds to force the keyboard into 2.4GHz pairing mode. The indicator should blink green.
+4. Unplug and reinsert the USB receiver. Wait up to 10 seconds for your computer to recognize the device.
+5. If the keyboard still does not connect, test the USB receiver on another computer to rule out port issues.
+6. Make sure the keyboard's battery is charged. Connect it via USB-C cable for at least 30 minutes, then retry wireless mode.
+7. If the issue persists, reset the keyboard by holding Fn + Esc for 5 seconds. Re-pair using steps above.
+8. If none of these steps work, contact TechMart support for a replacement receiver or further assistance."
+Right Earbud Not Producing Sound,SKU099,"When listening to audio with the Auralis TunePods Pro, the left earbud works normally, but no sound is heard from the right earbud. The right earbud's LED may still light up, and the case shows both earbuds as charged.","1. Remove both earbuds from the charging case and ensure they are powered on.
+2. Place both earbuds back into the charging case and wait 10 seconds. Remove them again to see if the issue is resolved.
+3. If the right earbud still produces no sound, check for debris or earwax blocking the speaker grill. Clean gently with a soft, dry brush if needed.
+4. Reset the TunePods Pro by placing both earbuds in the case and holding the touch sensors on both earbuds for 10 seconds until the LEDs flash white.
+5. Remove the TunePods Pro from your device's Bluetooth list and re-pair them.
+6. Test audio again. If the right earbud still does not work, try using the earbuds with another device.
+7. If the problem persists, contact TechMart support for further assistance or warranty evaluation."
+"CoreStation X5 Desktop Fails to Boot — Power On, No Display",SKU207,"When pressing the power button, the PC's fans and LEDs turn on, but the monitor shows 'No Signal.' There is no startup beep (if speaker installed), and the system does not reach the BIOS or show the manufacturer logo. The GPU and case fans spin, but there is no display output from any of the graphics card's ports.","1. Ensure the monitor is powered on and securely connected to the CoreStation X5’s graphics card (not the motherboard) using the appropriate cable (HDMI, DisplayPort, etc.).
+2. Try a different cable and/or monitor to rule out cable or display failure.
+3. Power off the desktop completely and unplug the power cord.
+4. Open the side panel and check that the NVIDIA GeForce RTX 4060 graphics card is fully seated in the PCIe slot and secured with its mounting screw.
+5. Ensure the PCIe power connector from the power supply unit (PSU) is firmly plugged into the graphics card.
+6. Check that all RAM modules are properly inserted in their slots; remove and reseat them if necessary.
+7. Disconnect all external peripherals except keyboard, mouse, and monitor.
+8. Plug the power cord back in and try powering on again.
+9. If the issue persists, try booting with only one RAM stick installed (test each stick individually in the main slot).
+10. If there is still no display, reset the motherboard’s CMOS by removing the battery for 60 seconds, then reinstalling it.
+11. If none of these steps resolve the issue, contact TechMart Support for further assistance or possible hardware diagnostics."
+No Display Output via USB-C Connection,SKU070,"When connecting a laptop or compatible device to the PixelEdge 32Q Pro Monitor using the USB-C port, the screen remains black with 'No Signal' displayed. The monitor powers on, and the laptop may charge through USB-C, but no image appears.","1. Ensure both the monitor and your laptop/device are powered on.
+2. Verify that the USB-C cable supports video output (not all USB-C cables do). Try a different cable if unsure.
+3. Check that the USB-C port on your laptop/device supports video output (DisplayPort Alternate Mode). Refer to your device's manual if needed.
+4. On the monitor, press the Input or Source button and select 'USB-C' as the active input.
+5. On your laptop/device, ensure the display output is set to extend or duplicate to the external monitor (Windows: Win+P; Mac: System Preferences > Displays).
+6. Disconnect and reconnect the USB-C cable on both ends, waiting a few seconds each time.
+7. If available, update your laptop's graphics drivers and USB-C firmware.
+8. If the issue persists, test the monitor's USB-C port with another device to rule out hardware problems.
+9. If none of the above steps resolve the issue, contact TechMart support for further assistance."
+Unable to Print via Wi-Fi (Print Job Stuck in Queue),SKU066,Print jobs sent from a computer or mobile device remain in the queue and do not print. The printer display shows 'Ready' but no pages are printed. Other devices can access the internet via Wi-Fi without issue. The printer works when connected via USB-C.,"1. Ensure the PrintEase Pro 4100 is powered on and the Wi-Fi indicator on the printer's control panel is solid (not blinking). 
+2. Confirm that your device (computer or mobile) is connected to the same Wi-Fi network as the printer. 
+3. On your device, open the print queue for the PrintEase Pro 4100 and clear all pending print jobs. Restart your device. 
+4. Restart your printer by powering it off, waiting 30 seconds, and turning it back on. 
+5. On the printer, navigate to Settings > Network > Wireless Status. Verify it displays 'Connected' and shows the correct network name (SSID).
+6. If the printer is not connected, run the Wireless Setup Wizard from the printer's touchscreen and reconnect to your Wi-Fi network. Enter your Wi-Fi password if prompted.
+7. On your device, remove and re-add the printer. For Windows: Go to Devices & Printers > Remove Device > Add a printer. For Mac: Go to System Preferences > Printers & Scanners > Remove '-' > Add '+'.
+8. Try printing a test page. If it still fails, temporarily disable any firewall or security software and attempt to print again.
+9. If the issue persists, reset the printer's network settings (Settings > Network > Restore Network Defaults), reconnect to Wi-Fi, and repeat steps 2-8.
+10. If none of the above resolves the issue, contact TechMart support for further assistance."
+Mouse cursor movement is erratic or jittery,SKU186,"When using the SwiftPoint Edge Wireless Mouse, the cursor moves unpredictably, jumps around, or jitters on the screen even with steady hand movements. This occurs on various surfaces and can make precise actions difficult. The mouse is otherwise powered on and buttons function normally.","1. Turn off the SwiftPoint Edge Wireless Mouse and inspect the sensor area underneath for dust, hair, or debris. Use a soft, dry cloth or compressed air to gently clean the sensor.
+2. Try using the mouse on a different surface. Avoid reflective, transparent, or glossy surfaces, as these can interfere with the PixArt PAW3395 optical sensor. A cloth or matte mouse pad is recommended.
+3. Ensure the mouse is within 1 meter (3 feet) of the USB receiver or paired device, and that there are no large metal objects or wireless devices that could cause interference.
+4. Replace or recharge the battery to ensure adequate power. Low battery levels can affect sensor performance even if the mouse still powers on.
+5. Unplug and re-insert the USB receiver (if using the dongle). Try a different USB port, preferably a direct port on your computer rather than a hub.
+6. Install or update the SwiftPoint Edge Mouse drivers/software from the official website to ensure optimal sensor calibration and compatibility.
+7. Test the mouse on another computer. If the issue persists across devices, the mouse may require servicing or replacement. Contact TechMart support with your product ID and troubleshooting steps completed."
+Audio Drops or Stutters During Wireless Playback,SKU265,"While listening to music or calls with the EchoTune AirPods Max, users may notice the sound cuts in and out, stutters, or briefly pauses, especially when moving around or in certain locations. Bluetooth connection may appear unstable, but the headphones remain powered on.","1. Move closer to your audio source (phone, tablet, or computer) to ensure you are within the recommended Bluetooth range (typically 10 meters/33 feet).
+2. Check for potential sources of wireless interference, such as Wi-Fi routers, microwaves, or other Bluetooth devices nearby, and move away from them if possible.
+3. Ensure that only one device is actively connected to the AirPods Max. If paired with multiple devices, disconnect from all but the intended source.
+4. Restart both your EchoTune AirPods Max and the audio source device. Power off the headphones, wait 10 seconds, then turn them back on. Restart your phone/tablet/computer as well.
+5. Update the firmware of your EchoTune AirPods Max using the official companion app, if available.
+6. If the issue persists, ""forget"" or remove the EchoTune AirPods Max from your device's Bluetooth list, then re-pair them.
+7. Test the headphones with a different device to rule out issues with the original source.
+8. If audio drops continue even after these steps, contact TechMart support for further assistance."
+Laptop Battery Not Charging When Plugged In,SKU230,"When the AeroFlex 15 Evo is connected to its charger, the battery icon in Windows shows 'Plugged in, not charging.' The battery percentage does not increase, and the laptop may only operate on AC power. The charging LED near the USB-C port may not illuminate.","1. Check that the USB-C charger is securely connected to both the laptop and a working power outlet. 
+2. Try plugging the charger into the other Thunderbolt 4 (USB-C) port to rule out a faulty port. 
+3. Inspect the charging cable and adapter for visible damage or loose connections. 
+4. Disconnect the charger, power off the laptop, and hold the power button for 15 seconds. Then reconnect the charger and power on the device. 
+5. In Windows, right-click the battery icon and select 'Power & sleep settings' > 'Additional power settings.' Ensure the selected plan does not restrict charging. 
+6. Open Device Manager, expand 'Batteries,' right-click 'Microsoft ACPI-Compliant Control Method Battery,' and select 'Uninstall device.' Restart the laptop—Windows will reinstall the driver automatically. 
+7. If the issue persists, test with a compatible USB-C charger (65W or higher). 
+8. If none of the above steps resolve the issue, contact TechMart support for further assistance, as the battery or charging circuit may need inspection."
+Mouse Double-Clicks When Single Clicked,SKU236,"When performing a single left-click with the GlidePro X9 Wireless Mouse, the computer registers a double-click instead. This issue persists across different applications and may cause unintended actions like opening files or folders twice.","1. Turn off the GlidePro X9 Wireless Mouse and turn it back on.
+2. Connect the mouse to a different USB port or use a different USB receiver slot if available.
+3. Test the mouse on a different computer to see if the issue persists.
+4. Ensure your operating system and any mouse drivers or software (e.g., TechMart GlidePro Suite) are up to date.
+5. Open the TechMart GlidePro software and check the button configuration, ensuring no macros or double-click functions are assigned to the left mouse button.
+6. Gently clean around the left mouse button with compressed air to remove any dust or debris that may be interfering with the switch.
+7. If the issue continues, perform a factory reset by holding down the DPI and left-click buttons for 5 seconds until the LED flashes blue.
+8. If none of these steps resolve the problem, contact TechMart Support for hardware inspection or warranty service."
