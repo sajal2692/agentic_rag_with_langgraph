@@ -1,0 +1,161 @@
+issue_title,product_id,symptoms,steps
+Wireless mouse disconnects randomly,SKU010,"Cursor freezes for 1–2 seconds, USB‑dongle LED blinks red, occurs every 5–10 minutes.","1. Move the receiver to a front USB port to reduce interference.
+2. Replace the AA battery or charge the mouse for at least 30 minutes.
+3. Toggle the 2.4 GHz / Bluetooth switch and re‑pair.
+4. Update firmware via GlideMouse Utility and reboot your PC."
+UltraBook Pro battery drains quickly,SKU001,Battery indicator drops from 100 % to 70 % in under an hour of web browsing.,"1. Switch Windows power mode to ‘Balanced’.
+2. Disable the OLED panel’s HDR in Display Settings.
+3. Check Task Manager for apps with >10 % CPU usage and close them.
+4. Update BIOS v1.09 which optimises idle power draw."
+UltraBook Air fan noise while idle,SKU002,Fans rev up to audible levels even on the desktop with no apps open.,"1. Install the latest Intel Dynamic Tuning driver from Support page.
+2. In BIOS, set Fan Profile to ‘Quiet’. 
+3. Clean vents with compressed air to remove dust.
+4. Ensure the laptop is on a hard surface, not fabric."
+PowerTower X fails to power on,SKU003,Pressing the power button shows no lights; PSU fan does not spin.,"1. Confirm the rear PSU switch is set to | (on).
+2. Check the AC cable and wall outlet with another device.
+3. Reseat 24‑pin and 8‑pin motherboard power connectors.
+4. If still dead, contact support for PSU replacement."
+VisionView 27 monitor won’t turn on,SKU005,"Power LED off, no image when the PC wakes from sleep.","1. Verify the power brick firmly clicks into the monitor port.
+2. Test a different outlet.
+3. Hold the monitor power button for 10 seconds to hard‑reset.
+4. Swap the power cable; if LED stays off, the brick may be faulty."
+VisionView 34 flickers at 165 Hz,SKU006,Screen flickers or shows brief black frames when set to 165 Hz.,"1. Use the supplied DisplayPort 1.4 cable; HDMI caps at 144 Hz.
+2. Disable Adaptive‑Sync in the OSD to test.
+3. Update GPU drivers; older versions had VRR bugs.
+4. Lower refresh to 144 Hz to confirm panel health."
+SoundWave ANC headphones won’t pair,SKU008,Headphones not visible in Bluetooth list; LED flashes red twice.,"1. Hold Power + Volume‑Up for 5 seconds to reset pairing memory.
+2. Ensure they are not already connected to another device.
+3. Bring the headphones within 30 cm of the phone during pairing.
+4. Toggle phone Bluetooth off/on and retry."
+Audio only plays in left earbud,SKU009,Right earbud silent even after reseating in case.,"1. Place both earbuds in the case and keep the lid open.
+2. Touch and hold both capacitive panels for 10 seconds until LEDs flash white.
+3. Remove earbuds and reconnect to your device.
+4. Clean charging pins with isopropyl alcohol if problem persists."
+KeyMaster RGB lighting not working,SKU012,Keys stay dark; Fn + Ctrl lighting shortcut unresponsive.,"1. Plug the keyboard via USB‑C wired mode.
+2. Run KeyMaster Configurator and update the firmware.
+3. Hold Fn + Space for 5 seconds to power‑cycle LEDs.
+4. Check that the switch under the spacebar is set to ‘RGB’, not ‘Off’."
+KeyMaster Compact not detected on macOS,SKU013,Keyboard types nothing over USB‑C; Mac shows ‘USB Accessories Disabled’.,"1. Use a USB‑C to USB‑A cable through a powered hub.
+2. Slide the OS toggle to Mac, then reconnect.
+3. Reset SMC on the Mac and reboot.
+4. If still failing, test on another computer to rule out cable."
+GlideMouse Ergo cursor jumps sporadically,SKU011,Pointer teleports across the screen every few minutes.,"1. Remove the trackball and wipe lint from the three sensor rollers.
+2. Lower DPI to 800 and test.
+3. Replace mouse feet if heavily scratched; uneven glide can trigger jitter.
+4. Update receiver firmware with GlideMouse Utility."
+StreamCam HD video appears blurry,SKU017,1080p feed looks soft; autofocus hunts continuously.,"1. Peel off the transparent lens sticker.
+2. Open the companion app and set Focus Mode to Auto.
+3. Ensure there is sufficient lighting; autofocus needs >50 lux.
+4. Update webcam firmware from Settings → About."
+PrintEase 2500 paper jams,SKU018,Paper crumples halfway; error 0xA3 flashes on LCD.,"1. Remove all paper and reseat the stack, fanning the edges.
+2. Open the rear door and gently pull out stuck sheets.
+3. Check that the paper type matches driver settings.
+4. Clean the pickup rollers with the provided swab."
+PrintEase 2500 prints only grayscale,SKU018,Color documents come out black‑and‑white even with new cartridges.,"1. In Print Preferences, make sure ‘Grayscale’ isn’t checked.
+2. Run ‘Nozzle Check’ and ‘Head Clean’ from Maintenance tab.
+3. Verify all four ink tanks show >10 %.
+4. Reinstall driver version 4.2 or higher."
+NetLink AX6000 Wi‑Fi drops intermittently,SKU019,"Devices show ‘Connected, no internet’ for 30–60 seconds.","1. Update router firmware to build 1.1.9.
+2. Disable Smart Connect and assign unique SSIDs per band.
+3. Set Channel Width to 80 MHz instead of 160 MHz.
+4. Relocate router away from microwave ovens and cordless phones."
+Cannot access router admin page,SKU019,Entering 192.168.1.1 returns ‘site can’t be reached’.,"1. Connect via Ethernet and retry the URL http://router.local.
+2. Reset browser cache or use incognito.
+3. Press the router reset pin for 10 seconds to restore defaults.
+4. Ensure your PC has a 192.168.1.x IP by renewing DHCP."
+DataVault SSD not recognized by Windows,SKU020,Drive letter missing; Disk Management shows ‘Unallocated’.,"1. Try a different USB‑C cable rated 10 Gbps.
+2. Run ‘Initialize Disk’ in Disk Management and create an NTFS volume.
+3. Disable USB selective suspend in Power Options.
+4. Update USB controller drivers from the motherboard vendor."
+ChargeHub 100 W charger feels hot,SKU021,Surface reaches ~60 °C when charging two laptops.,"1. Verify total load is under 100 W (check laptop power draw).
+2. Use both USB‑C ports instead of daisy‑chaining devices.
+3. Place charger on a hard surface for airflow.
+4. Firmware v2.0 limits thermals; update via ChargeHub app."
+PulseSpeaker Smart ignores voice command,SKU022,LED ring lights but assistant doesn’t respond.,"1. Mute switch may be engaged; slide it to ‘On’.
+2. Retrain the wake word in the companion app.
+3. Power‑cycle the speaker and reconnect Wi‑Fi.
+4. Factory‑reset by holding Play + Volume‑Down for 12 seconds."
+GamePad Pro joystick drift,SKU023,Camera pans slowly even when stick is untouched.,"1. Calibrate in Windows Game Controller settings.
+2. Blow compressed air around the joystick bases.
+3. Update firmware via GamePad Tool 1.3.
+4. If drift persists, request a Hall‑sensor replacement under warranty."
+UltraBook Pro cannot output 4K@60 Hz,SKU001,External monitor capped at 30 Hz over HDMI.,"1. Use a USB‑C → DisplayPort cable rated DP 1.4.
+2. In Intel Graphics Command Center, set Display Refresh to 60 Hz.
+3. Ensure monitor input is set to DisplayPort 1.4.
+4. Update GPU driver 31.0.101.5000 or newer."
+UltraBook Air Wi‑Fi disconnects frequently,SKU002,Wi‑Fi icon drops then reconnects every 15 minutes.,"1. Install Intel Wi‑Fi driver 23.30 or later.
+2. Turn off Wi‑Fi power‑saving in Device Manager.
+3. Forget and re‑add the network, ensuring WPA3 is disabled if unsupported.
+4. Test on 2.4 GHz to check for 5 GHz congestion."
+Zenith X5 battery drains overnight,SKU014,Battery drops 20 % while idle on standby.,"1. Disable ‘Always‑on display’ in Settings.
+2. Turn off 120 Hz refresh when not gaming.
+3. Check Battery Usage to identify rogue apps.
+4. Install firmware patch X5‑1.0.7."
+Zenith X5 cannot access 5G network,SKU014,Status bar shows LTE even in 5G‑covered areas.,"1. Ensure 5G is enabled under Settings → Mobile Network.
+2. Reinsert SIM and reboot.
+3. Contact carrier to confirm 5G provisioning.
+4. Dial *#*#4636#*#* and set Preferred Network to NR/LTE/CDMA."
+TabView Plus stylus not detected,SKU016,Pen strokes don’t register; tablet ignores hover.,"1. Replace the AAAA battery inside the stylus.
+2. Toggle Bluetooth off/on on the tablet.
+3. Remove case or magnetic covers that can interfere.
+4. Open Pen Settings and re‑pair the stylus."
+TabView Plus keyboard cover not connecting,SKU016,Physical keyboard doesn’t type; on‑screen keyboard appears.,"1. Wipe pogo‑pin contacts with a dry microfiber cloth.
+2. Detach and reattach the cover firmly.
+3. Update tablet firmware TBP‑OTA‑3.04.
+4. Test the cover on another TabView Plus if possible."
+SolarPack power bank not charging devices,SKU025,Phone shows ‘Charging…’ then stops after 3 seconds.,"1. Double‑press the power button to force 5 V mode.
+2. Swap USB‑C cable; use E‑marked cable for PD output.
+3. Check remaining capacity LEDs (must be >1 bar).
+4. If still failing, reset by holding Power for 15 seconds."
+Solar panel trickle‑charge not working,SKU025,Solar indicator never lights up even in direct sunlight.,"1. Unfold panels completely and angle them toward the sun.
+2. Ensure the surface temperature is above 10 °C; cold impedes charging.
+3. Disconnect any load while solar‑charging.
+4. Solar LEDs only light when input current >50 mA; wait 5 minutes."
+UltraBook Pro overheating under load,SKU001,CPU hits 95 °C and throttles during video calls.,"1. Clean fans with compressed air through rear vents.
+2. Elevate rear of laptop by 2 cm using a stand.
+3. Install BIOS v1.10 which revises fan curve.
+4. Undervolt CPU by ‑50 mV using Intel XTU (advanced users)."
+PowerTower X GPU fan rattles,SKU003,Rattling noise at 2000 RPM; stops when case is tapped.,"1. Check if a cable is rubbing against the GPU fan blades.
+2. Tighten the GPU mounting screws.
+3. Update GPU BIOS which raises the idle‑stop threshold.
+4. If blades are chipped, request an RMA."
+VisionView 27 USB‑C power delivery not working,SKU005,"Laptop reports ‘Plugged in, not charging’ via monitor’s USB‑C.","1. Use the supplied USB‑C cable rated 5 A.
+2. Set USB‑C Prioritisation to ‘Power + Display’ in OSD.
+3. Update monitor firmware v1.03 via USB‑B uplink.
+4. Ensure laptop negotiates ≤65 W; gaming laptops may exceed."
+GlideMouse Wireless DPI button non‑responsive,SKU010,Pressing DPI button yields no LED color change.,"1. Slide power switch off, then on to reset micro‑controller.
+2. Install GlideMouse Config and check DPI button is mapped.
+3. Update firmware 2.02 which fixes button debounce.
+4. If hardware fail, request replacement top shell."
+SoundWave ANC won’t enable noise cancelling,SKU008,ANC LED stays off; ambient sounds unchanged.,"1. Charge headphones to at least 20 %.
+2. Hold ANC button for 2 seconds until voice prompt ‘Noise cancelling’.
+3. Update firmware 1.4 via SoundWave app.
+4. Factory‑reset (Power + ANC button 10 seconds) and re‑pair."
+Earbuds charging case won’t charge,SKU009,Case LED blinks red when plugged in; battery remains at 0 %.,"1. Use a 5 V 1 A charger; case doesn’t support fast charge.
+2. Clean USB‑C port with a wooden toothpick.
+3. Check cable integrity by charging another device.
+4. Reset the case by holding button inside for 15 seconds."
+PulseSpeaker Bluetooth audio lag,SKU022,Video lipsync delay ~300 ms over Bluetooth.,"1. Switch to AAC codec in phone developer options.
+2. Place speaker within 1 m of source to avoid latency‑inducing retransmits.
+3. Update firmware 3.0 which adds low‑latency mode.
+4. Use 3.5 mm aux input for zero‑latency playback."
+DataVault SSD slow transfer speeds,SKU020,Writes cap at 50 MB/s instead of 1000 MB/s.,"1. Ensure USB mode negotiates 10 Gbps (Superspeed+).
+2. Format drive as exFAT with 128 KB allocation.
+3. Disable real‑time antivirus during transfer.
+4. Connect directly to PC port, not through a hub."
+Mesh satellite won’t connect to AX6000,SKU019,Satellite LED flashes orange; app shows ‘waiting for router’.,"1. Place satellite within 10 m of router for initial pairing.
+2. Press Sync on router then satellite within 2 minutes.
+3. Update both units to firmware 1.1.9.
+4. Factory‑reset satellite and redo mesh setup."
+Printer Wi‑Fi setup fails,SKU018,Printer LCD shows ‘Connection Failed’ error −3.,"1. Ensure router SSID is 2.4 GHz; printer doesn’t support 5 GHz.
+2. Enter password carefully; passwords are case‑sensitive.
+3. Move printer within 5 m of router during setup.
+4. Disable MAC filtering on router or add printer MAC address."
+CreatorsStation Pro emits BIOS beep codes,SKU004,Three long beeps repeat after power on; no video output.,"1. Check ECC RAM modules; reseat or swap slots.
+2. Disconnect GPU and boot with integrated graphics.
+3. Clear CMOS using the jumper for 10 seconds.
+4. If still beeping, contact support with beep pattern details."
+GamePad Pro won’t connect to phone,SKU023,Controller LED pulses blue; phone never shows pairing request.,"1. Hold Share + Home for 5 seconds to enter mobile mode.
+2. Forget old GamePad Pro entry in Bluetooth list and scan again.
+3. Toggle phone Bluetooth off/on.
+4. Reset controller by inserting a pin into the back reset hole for 3 seconds."
