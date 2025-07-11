@@ -117,9 +117,9 @@ agentic_rag_with_langgraph/
 
 The project uses TechMart e-commerce data:
 
-- **Product Catalog** (531 products): Laptops, desktops, monitors, accessories with specifications
+- **Product Catalog** (500+ entries): Laptops, desktops, monitors, accessories with specifications
 - **FAQ** (50 entries): Common customer questions about shipping, returns, warranties
-- **Troubleshooting** (1,114 entries): Technical support guides for common issues
+- **Troubleshooting** (150+ entries): Technical support guides for common issues
 
 ## Troubleshooting
 
