@@ -63,7 +63,7 @@ OPENAI_EMBEDDING_MODEL=text-embedding-3-small
 uv run python utils/ingest_data_in_single_collection.py
 ```
 
-This creates a unified collection named `techmart_data` in `chroma_db/` (used by some exercises).
+This creates a unified collection named `techmart_data` in `vector_store/chroma_db_single/` (used by some exercises).
 
 #### Step 2: Create Separate Collections Database
 ```bash
@@ -71,7 +71,7 @@ This creates a unified collection named `techmart_data` in `chroma_db/` (used by
 uv run python utils/ingest_data_in_separate_collections.py
 ```
 
-This creates separate collections in `chroma_db_separate/` (used by other exercises):
+This creates separate collections in `vector_store/chroma_db_separate/` (used by other exercises):
 - `techmart_catalog` (product catalog)
 - `techmart_faq` (frequently asked questions)  
 - `techmart_troubleshooting` (troubleshooting guides)
@@ -83,17 +83,17 @@ This creates separate collections in `chroma_db_separate/` (used by other exerci
 After running both ingestion scripts, you should see:
 - Progress bars showing data processing for each script
 - Confirmation messages about successful ingestion
-- ChromaDB files created in both `chroma_db/` and `chroma_db_separate/` directories
+- ChromaDB files created in both `vector_store/chroma_db_single/` and `vector_store/chroma_db_separate/` directories
 
 **Expected output structure:**
 ```
-chroma_db/          # Single collection database
-├── chroma.sqlite3
-└── [collection-id-folders]/
-
-chroma_db_separate/ # Separate collections database  
-├── chroma.sqlite3
-└── [collection-id-folders]/
+vector_store/
+├── chroma_db_single/          # Single collection database
+│   ├── chroma.sqlite3
+│   └── [collection-id-folders]/
+└── chroma_db_separate/        # Separate collections database  
+    ├── chroma.sqlite3
+    └── [collection-id-folders]/
 ```
 
 ## Project Structure
@@ -104,14 +104,24 @@ agentic_rag_with_langgraph/
 │   ├── techmart_catalog.csv
 │   ├── techmart_faq.csv
 │   └── techmart_troubleshooting.csv
+├── notebooks/                         # Jupyter exercise notebooks
+│   ├── 01_basic_rag.ipynb
+│   ├── 02_agentic_router_rag.ipynb
+│   └── 03_agentic_adaptive_rag.ipynb
 ├── utils/                             # Utility scripts
 │   ├── ingest_data_in_single_collection.py
 │   └── ingest_data_in_separate_collections.py
-├── chroma_db/                         # Single collection database (gitignored)
-├── chroma_db_separate/                # Separate collections database (gitignored)
+├── vector_store/                      # Vector databases (gitignored)
+│   ├── chroma_db_single/              # Single collection database
+│   └── chroma_db_separate/            # Separate collections database
 ├── .env.example                       # Environment variables template
+├── .gitignore                         # Git ignore file
+├── .python-version                    # Python version specification
+├── LICENSE                            # MIT License
+├── main.py                            # Main application entry point
 ├── pyproject.toml                     # Project configuration
-└── README.md
+├── README.md                          # This file
+└── uv.lock                            # Dependency lock file
 ```
 
 ## Data Overview
