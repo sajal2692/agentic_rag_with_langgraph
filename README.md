@@ -6,6 +6,7 @@ Exercises for the Agentic RAG live course for O'Reilly.
 
 - Python 3.12+
 - OpenAI API key
+- Tavily API key ; for web search (see: https://www.tavily.com/)
 - Git
 
 ## Setup Instructions
