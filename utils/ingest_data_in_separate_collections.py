@@ -60,8 +60,8 @@ def main():
     )
 
     # Setup ChromaDB directory
-    chroma_db_path = Path(__file__).parent.parent / "chroma_db_separate"
-    chroma_db_path.mkdir(exist_ok=True)
+    chroma_db_path = Path(__file__).parent.parent / "vector_store" / "chroma_db_separate"
+    chroma_db_path.mkdir(parents=True, exist_ok=True)
 
     # Get all CSV files from data directory
     data_dir = Path(__file__).parent.parent / "data"

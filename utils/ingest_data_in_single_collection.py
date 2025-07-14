@@ -53,8 +53,8 @@ def main():
     )
     
     # Setup ChromaDB
-    chroma_db_path = Path(__file__).parent.parent / "chroma_db"
-    chroma_db_path.mkdir(exist_ok=True)
+    chroma_db_path = Path(__file__).parent.parent / "vector_store" / "chroma_db_single"
+    chroma_db_path.mkdir(parents=True, exist_ok=True)
     
     vector_store = Chroma(
         collection_name="techmart_data",
