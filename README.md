@@ -133,6 +133,24 @@ The project uses TechMart e-commerce data:
 - **FAQ** (50 entries): Common customer questions about shipping, returns, warranties
 - **Troubleshooting** (150+ entries): Technical support guides for common issues
 
+## Adaptive RAG notebook checks
+
+Exercise 3 builds the per-query subgraph first, then adds the parent graph for
+parallel and sequential subqueries. The notebook includes compact execution traces
+and controlled examples of the retry decision.
+
+Run the offline checks from the repository root:
+
+```bash
+uv run python -m unittest discover -s tests -v
+```
+
+These checks run the notebook's actual graphs with deterministic model and retrieval
+responses. They cover all four retrieval sources, retry limits, sequential context
+preservation, parallel execution, and final document aggregation. They do not call
+OpenAI or Tavily, or require API keys or a vector database. Run the notebook itself
+to check live model and retrieval behavior.
+
 ## Troubleshooting
 
 ### Common Issues
